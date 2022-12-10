@@ -1,0 +1,6003 @@
+[
+    {
+        "name": "Abortion",
+        "number": 363.46
+    },
+    {
+        "name": "Addiction",
+        "number": 362.29
+    },
+    {
+        "name": "Adolescence",
+        "number": 305.235
+    },
+    {
+        "name": "Adoption",
+        "number": 362.734
+    },
+    {
+        "name": "Advertising",
+        "number": 659.1
+    },
+    {
+        "name": "Aerodynamics",
+        "number": 533.62
+    },
+    {
+        "name": "Africa (History)",
+        "number": 960.0
+    },
+    {
+        "name": "African Americans (Culture)",
+        "number": 305.896
+    },
+    {
+        "name": "African Americans (History)",
+        "number": 973.0496
+    },
+    {
+        "name": "African Violets",
+        "number": 635.933
+    },
+    {
+        "name": "Aggression",
+        "number": 302.54
+    },
+    {
+        "name": "Aging",
+        "number": 571.878
+    },
+    {
+        "name": "AIDS (disease)",
+        "number": 362.196
+    },
+    {
+        "name": "AIDS (medicine)",
+        "number": 616.979
+    },
+    {
+        "name": "Airplanes",
+        "number": 629.133
+    },
+    {
+        "name": "Air Pollution",
+        "number": 363.739
+    },
+    {
+        "name": "Aircraft",
+        "number": 387.73
+    },
+    {
+        "name": "Alcoholism",
+        "number": 362.292
+    },
+    {
+        "name": "Algae",
+        "number": 579.8
+    },
+    {
+        "name": "Algebra",
+        "number": 512.0
+    },
+    {
+        "name": "Aliens",
+        "number": 305.906
+    },
+    {
+        "name": "Allergies",
+        "number": 57.972
+    },
+    {
+        "name": "Almanacs",
+        "number": 314.0
+    },
+    {
+        "name": "Alzheimer Disease",
+        "number": 362.196
+    },
+    {
+        "name": "Amateur Radio",
+        "number": 384.54
+    },
+    {
+        "name": "Amphibians",
+        "number": 597.8
+    },
+    {
+        "name": "Anatomy",
+        "number": 571.3
+    },
+    {
+        "name": "Anemia",
+        "number": 616.152
+    },
+    {
+        "name": "Anger",
+        "number": 152.47
+    },
+    {
+        "name": "Animals",
+        "number": 590.0
+    },
+    {
+        "name": "Animal Behavior",
+        "number": 591.5
+    },
+    {
+        "name": "Anorexia Nervosa",
+        "number": 362.25
+    },
+    {
+        "name": "Antiques",
+        "number": 745.1
+    },
+    {
+        "name": "Archaeologists",
+        "number": 930.109
+    },
+    {
+        "name": "Architects",
+        "number": 720.92
+    },
+    {
+        "name": "Arrest",
+        "number": 363.232
+    },
+    {
+        "name": "Art (History)",
+        "number": 709.0
+    },
+    {
+        "name": "Art (Technique)",
+        "number": 751.4
+    },
+    {
+        "name": "Arterial Diseases (medicine)",
+        "number": 616.13
+    },
+    {
+        "name": "Arthritis",
+        "number": 616.722
+    },
+    {
+        "name": "Artists",
+        "number": 700.92
+    },
+    {
+        "name": "Asia (History)",
+        "number": 959.0
+    },
+    {
+        "name": "Asbestos",
+        "number": 553.672
+    },
+    {
+        "name": "Astronomy",
+        "number": 520.0
+    },
+    {
+        "name": "Athletic Games",
+        "number": 796.0
+    },
+    {
+        "name": "Atlases",
+        "number": 912.0
+    },
+    {
+        "name": "Atmosphere",
+        "number": 551.5
+    },
+    {
+        "name": "Attorneys",
+        "number": 340.092
+    },
+    {
+        "name": "Auctions",
+        "number": 381.17
+    },
+    {
+        "name": "Auto Racing",
+        "number": 796.72
+    },
+    {
+        "name": "Autumn",
+        "number": 508.2
+    },
+    {
+        "name": "Aviation",
+        "number": 387.7
+    },
+    {
+        "name": "Baby Food",
+        "number": 641.3
+    },
+    {
+        "name": "Baby names",
+        "number": 929.44
+    },
+    {
+        "name": "Backpacking",
+        "number": 796.51
+    },
+    {
+        "name": "Bacteria",
+        "number": 579.3
+    },
+    {
+        "name": "Bags",
+        "number": 688.8
+    },
+    {
+        "name": "Ballots",
+        "number": 324.65
+    },
+    {
+        "name": "Ballroom dancing",
+        "number": 793.33
+    },
+    {
+        "name": "Banking",
+        "number": 332.1
+    },
+    {
+        "name": "Bankruptcy",
+        "number": 332.75
+    },
+    {
+        "name": "Barbecuing",
+        "number": 641.76
+    },
+    {
+        "name": "Baseball",
+        "number": 796.357
+    },
+    {
+        "name": "Bats",
+        "number": 599.4
+    },
+    {
+        "name": "Bazaars (Management)",
+        "number": 658.87
+    },
+    {
+        "name": "Bears",
+        "number": 599.78
+    },
+    {
+        "name": "Beauty  (Personal)",
+        "number": 700.453
+    },
+    {
+        "name": "Benedictions",
+        "number": 203.8
+    },
+    {
+        "name": "Bible",
+        "number": 220.0
+    },
+    {
+        "name": "Biblical Events",
+        "number": 220.95
+    },
+    {
+        "name": "Big Game Hunting",
+        "number": 799.26
+    },
+    {
+        "name": "Bigfoot",
+        "number": 1.944
+    },
+    {
+        "name": "Biological Parents",
+        "number": 306.874
+    },
+    {
+        "name": "Biodiversity",
+        "number": 333.95
+    },
+    {
+        "name": "Biography",
+        "number": 920.0
+    },
+    {
+        "name": "Biology",
+        "number": 570.0
+    },
+    {
+        "name": "Biosphere",
+        "number": 333.95
+    },
+    {
+        "name": "Birds",
+        "number": 598.0
+    },
+    {
+        "name": "Birth",
+        "number": 573.67
+    },
+    {
+        "name": "Birth Defects",
+        "number": 616.043
+    },
+    {
+        "name": "Bisexuality",
+        "number": 306.765
+    },
+    {
+        "name": "Black Death (History)",
+        "number": 940.192
+    },
+    {
+        "name": "Black Lung Disease",
+        "number": 362.196
+    },
+    {
+        "name": "Bladder (Urinary)",
+        "number": 573.49
+    },
+    {
+        "name": "Blankets",
+        "number": 643.53
+    },
+    {
+        "name": "Bodybuilding",
+        "number": 646.75
+    },
+    {
+        "name": "Blood",
+        "number": 573.15
+    },
+    {
+        "name": "Bloodhound",
+        "number": 636.753
+    },
+    {
+        "name": "Board Games",
+        "number": 794.0
+    },
+    {
+        "name": "Bone Marrow",
+        "number": 573.155
+    },
+    {
+        "name": "Books",
+        "number": 2.0
+    },
+    {
+        "name": "Boys",
+        "number": 305.23
+    },
+    {
+        "name": "Brain",
+        "number": 573.86
+    },
+    {
+        "name": "Breast Cancer (Medicine)",
+        "number": 616.994
+    },
+    {
+        "name": "Bridges",
+        "number": 388.132
+    },
+    {
+        "name": "Broadcasting",
+        "number": 384.54
+    },
+    {
+        "name": "Bronchitis",
+        "number": 616.234
+    },
+    {
+        "name": "Budgeting",
+        "number": 658.154
+    },
+    {
+        "name": "Builders",
+        "number": 690.092
+    },
+    {
+        "name": "Bullying",
+        "number": 302.3
+    },
+    {
+        "name": "Business Ethics",
+        "number": 174.4
+    },
+    {
+        "name": "Business Forms",
+        "number": 651.29
+    },
+    {
+        "name": "Business Management",
+        "number": 658.0
+    },
+    {
+        "name": "Butterflies",
+        "number": 595.789
+    },
+    {
+        "name": "Cabinetmaking",
+        "number": 684.104
+    },
+    {
+        "name": "Cactuses",
+        "number": 583.56
+    },
+    {
+        "name": "Caffeine Abuse",
+        "number": 362.299
+    },
+    {
+        "name": "Cake Decorating",
+        "number": 641.865
+    },
+    {
+        "name": "Calcium",
+        "number": 669.725
+    },
+    {
+        "name": "Calculus",
+        "number": 515.0
+    },
+    {
+        "name": "Calendars",
+        "number": 264.0
+    },
+    {
+        "name": "Calligraphy",
+        "number": 745.61
+    },
+    {
+        "name": "Cambodia",
+        "number": 959.6
+    },
+    {
+        "name": "Camp Cooking",
+        "number": 641.578
+    },
+    {
+        "name": "Campaigns (Politics)",
+        "number": 324.9
+    },
+    {
+        "name": "Canada",
+        "number": 971.0
+    },
+    {
+        "name": "Canaries",
+        "number": 636.686
+    },
+    {
+        "name": "Cancer",
+        "number": 571.978
+    },
+    {
+        "name": "Canoeing",
+        "number": 797.122
+    },
+    {
+        "name": "Canoes",
+        "number": 386.229
+    },
+    {
+        "name": "Capillaries",
+        "number": 573.187
+    },
+    {
+        "name": "Capital",
+        "number": 332.041
+    },
+    {
+        "name": "Capitalism",
+        "number": 330.122
+    },
+    {
+        "name": "Capitols",
+        "number": 725.11
+    },
+    {
+        "name": "Car Repairs",
+        "number": 629.28
+    },
+    {
+        "name": "Carbohydrates",
+        "number": 572.56
+    },
+    {
+        "name": "Cardiac Arrest",
+        "number": 616.123
+    },
+    {
+        "name": "Cardiovascular Diseases",
+        "number": 573.139
+    },
+    {
+        "name": "Card Games",
+        "number": 795.4
+    },
+    {
+        "name": "Career Development",
+        "number": 370.113
+    },
+    {
+        "name": "Career Guidance",
+        "number": 331.702
+    },
+    {
+        "name": "Cargo Ships",
+        "number": 387.245
+    },
+    {
+        "name": "Cars",
+        "number": 388.342
+    },
+    {
+        "name": "Cartoon Drawing",
+        "number": 741.5
+    },
+    {
+        "name": "Casseroles",
+        "number": 641.821
+    },
+    {
+        "name": "Castles",
+        "number": 728.81
+    },
+    {
+        "name": "Catalogs",
+        "number": 17.0
+    },
+    {
+        "name": "Cataracts",
+        "number": 617.742
+    },
+    {
+        "name": "Catastrophes",
+        "number": 904.0
+    },
+    {
+        "name": "Caterpillars",
+        "number": 595.781
+    },
+    {
+        "name": "Cat fishes",
+        "number": 597.49
+    },
+    {
+        "name": "Catholic Church",
+        "number": 282.0
+    },
+    {
+        "name": "Cats",
+        "number": 636.8
+    },
+    {
+        "name": "Caves",
+        "number": 551.447
+    },
+    {
+        "name": "CD-ROMs (computer memory)",
+        "number": 4.565
+    },
+    {
+        "name": "Celebrations",
+        "number": 394.2
+    },
+    {
+        "name": "Cells (biology)",
+        "number": 571.6
+    },
+    {
+        "name": "Celts",
+        "number": 916.0
+    },
+    {
+        "name": "Cement",
+        "number": 666.94
+    },
+    {
+        "name": "Cemeteries",
+        "number": 363.75
+    },
+    {
+        "name": "Censorship",
+        "number": 363.31
+    },
+    {
+        "name": "Census records (genealogy)",
+        "number": 929.3
+    },
+    {
+        "name": "Central America (History)",
+        "number": 972.8
+    },
+    {
+        "name": "Central heating",
+        "number": 697.03
+    },
+    {
+        "name": "Central Intelligence Agency",
+        "number": 327.127
+    },
+    {
+        "name": "Central nervous system",
+        "number": 573.86
+    },
+    {
+        "name": "Ceramic arts",
+        "number": 738.0
+    },
+    {
+        "name": "Chain saws",
+        "number": 621.934
+    },
+    {
+        "name": "Chain stores",
+        "number": 381.12
+    },
+    {
+        "name": "Chairs",
+        "number": 645.4
+    },
+    {
+        "name": "Chalk",
+        "number": 553.68
+    },
+    {
+        "name": "Champagne",
+        "number": 641.222
+    },
+    {
+        "name": "Character",
+        "number": 155.2
+    },
+    {
+        "name": "Charity (ethics)",
+        "number": 177.7
+    },
+    {
+        "name": "Charm (life skills) ",
+        "number": 646.76
+    },
+    {
+        "name": "Chemical Reactions",
+        "number": 541.39
+    },
+    {
+        "name": "Chemistry",
+        "number": 540.0
+    },
+    {
+        "name": "Chickens",
+        "number": 636.5
+    },
+    {
+        "name": "Child abuse",
+        "number": 362.76
+    },
+    {
+        "name": "Child care",
+        "number": 649.1
+    },
+    {
+        "name": "Childbirth",
+        "number": 618.24
+    },
+    {
+        "name": "Children",
+        "number": 305.23
+    },
+    {
+        "name": "China (country)",
+        "number": 951.0
+    },
+    {
+        "name": "Chiropractic",
+        "number": 615.534
+    },
+    {
+        "name": "Chocolate (food)",
+        "number": 641.337
+    },
+    {
+        "name": "Choirs",
+        "number": 782.5
+    },
+    {
+        "name": "Choreography",
+        "number": 792.82
+    },
+    {
+        "name": "Christian Church",
+        "number": 260.0
+    },
+    {
+        "name": "Christianity",
+        "number": 230.0
+    },
+    {
+        "name": "Christmas (customs)",
+        "number": 394.266
+    },
+    {
+        "name": "Chronic diseases",
+        "number": 616.044
+    },
+    {
+        "name": "Chronology",
+        "number": 529.0
+    },
+    {
+        "name": "Church and state",
+        "number": 322.1
+    },
+    {
+        "name": "Cinema",
+        "number": 791.43
+    },
+    {
+        "name": "Circulatory system",
+        "number": 573.1
+    },
+    {
+        "name": "Circuses",
+        "number": 791.3
+    },
+    {
+        "name": "Cities",
+        "number": 307.76
+    },
+    {
+        "name": "Citizenship",
+        "number": 323.6
+    },
+    {
+        "name": "Civics",
+        "number": 320.4
+    },
+    {
+        "name": "Civil rights",
+        "number": 323.0
+    },
+    {
+        "name": "Civil service",
+        "number": 351.0
+    },
+    {
+        "name": "Civil War (U.S., 1861-1865)",
+        "number": 973.7
+    },
+    {
+        "name": "Civilization",
+        "number": 909.0
+    },
+    {
+        "name": "Classical music",
+        "number": 781.68
+    },
+    {
+        "name": "Classification",
+        "number": 1.012
+    },
+    {
+        "name": "Clay",
+        "number": 553.61
+    },
+    {
+        "name": "Cleaning house",
+        "number": 648.5
+    },
+    {
+        "name": "Climate",
+        "number": 551.6
+    },
+    {
+        "name": "Clocks",
+        "number": 681.113
+    },
+    {
+        "name": "Cloning",
+        "number": 571.89
+    },
+    {
+        "name": "Closets",
+        "number": 643.5
+    },
+    {
+        "name": "Clothing",
+        "number": 391.0
+    },
+    {
+        "name": "Clothing care",
+        "number": 646.6
+    },
+    {
+        "name": "Clouds",
+        "number": 551.576
+    },
+    {
+        "name": "Clubs",
+        "number": 367.0
+    },
+    {
+        "name": "Coaching",
+        "number": 798.6
+    },
+    {
+        "name": "Coal",
+        "number": 553.24
+    },
+    {
+        "name": "Coasts",
+        "number": 551.457
+    },
+    {
+        "name": "Cocktails",
+        "number": 641.874
+    },
+    {
+        "name": "Codependency",
+        "number": 362.291
+    },
+    {
+        "name": "Coins",
+        "number": 737.4
+    },
+    {
+        "name": "Collecting",
+        "number": 69.4
+    },
+    {
+        "name": "Collecting (recreation)",
+        "number": 790.132
+    },
+    {
+        "name": "Colleges",
+        "number": 378.154
+    },
+    {
+        "name": "Colonization",
+        "number": 325.3
+    },
+    {
+        "name": "Color",
+        "number": 535.6
+    },
+    {
+        "name": "Combat",
+        "number": 355.4
+    },
+    {
+        "name": "Combustion",
+        "number": 541.361
+    },
+    {
+        "name": "Comedies",
+        "number": 792.23
+    },
+    {
+        "name": "Comets",
+        "number": 523.6
+    },
+    {
+        "name": "Comics",
+        "number": 741.5
+    },
+    {
+        "name": "Commerce",
+        "number": 381.0
+    },
+    {
+        "name": "Commodities",
+        "number": 338.02
+    },
+    {
+        "name": "Communication",
+        "number": 302.2
+    },
+    {
+        "name": "Communism",
+        "number": 335.4
+    },
+    {
+        "name": "Competition",
+        "number": 338.604
+    },
+    {
+        "name": "Composers",
+        "number": 780.92
+    },
+    {
+        "name": "Composting",
+        "number": 631.875
+    },
+    {
+        "name": "Computer crimes",
+        "number": 364.168
+    },
+    {
+        "name": "Computer games",
+        "number": 794.8
+    },
+    {
+        "name": "Computer languages",
+        "number": 5.13
+    },
+    {
+        "name": "Computer programs or software",
+        "number": 5.3
+    },
+    {
+        "name": "Computers (science)",
+        "number": 4.0
+    },
+    {
+        "name": "Concerts",
+        "number": 780.78
+    },
+    {
+        "name": "Concrete",
+        "number": 666.893
+    },
+    {
+        "name": "Condensation",
+        "number": 536.44
+    },
+    {
+        "name": "Construction",
+        "number": 624.0
+    },
+    {
+        "name": "Consumer information",
+        "number": 381.33
+    },
+    {
+        "name": "Contracts",
+        "number": 346.02
+    },
+    {
+        "name": "Cookbooks",
+        "number": 641.5
+    },
+    {
+        "name": "Copyright and Patents",
+        "number": 346.73
+    },
+    {
+        "name": "Coronary heart disease",
+        "number": 616.123
+    },
+    {
+        "name": "Correspondence (letters)",
+        "number": 383.122
+    },
+    {
+        "name": "Correspondence courses",
+        "number": 371.356
+    },
+    {
+        "name": "Corrosion",
+        "number": 620.112
+    },
+    {
+        "name": "Cosmetics",
+        "number": 646.72
+    },
+    {
+        "name": "Costume",
+        "number": 391.0
+    },
+    {
+        "name": "Costumes (home sewing)",
+        "number": 646.478
+    },
+    {
+        "name": "Counseling",
+        "number": 361.06
+    },
+    {
+        "name": "Counterfeiting",
+        "number": 364.133
+    },
+    {
+        "name": "Courage",
+        "number": 179.6
+    },
+    {
+        "name": "Court decisions",
+        "number": 348.044
+    },
+    {
+        "name": "Court records",
+        "number": 347.013
+    },
+    {
+        "name": "Courtship",
+        "number": 306.734
+    },
+    {
+        "name": "Crafts",
+        "number": 680.0
+    },
+    {
+        "name": "Craters",
+        "number": 551.21
+    },
+    {
+        "name": "Creation",
+        "number": 213.0
+    },
+    {
+        "name": "Credit cards",
+        "number": 332.765
+    },
+    {
+        "name": "Cremation",
+        "number": 363.75
+    },
+    {
+        "name": "Crime",
+        "number": 364.0
+    },
+    {
+        "name": "Criticism (literature)",
+        "number": 809.0
+    },
+    {
+        "name": "Crocheting",
+        "number": 677.028
+    },
+    {
+        "name": "Crusades",
+        "number": 909.07
+    },
+    {
+        "name": "Crustaceans",
+        "number": 595.3
+    },
+    {
+        "name": "Cuba",
+        "number": 972.91
+    },
+    {
+        "name": "Cults",
+        "number": 209.0
+    },
+    {
+        "name": "Culture",
+        "number": 306.0
+    },
+    {
+        "name": "Currency",
+        "number": 332.4
+    },
+    {
+        "name": "Curriculums",
+        "number": 375.0
+    },
+    {
+        "name": "Dairy products",
+        "number": 641.37
+    },
+    {
+        "name": "Dams",
+        "number": 627.8
+    },
+    {
+        "name": "Dance",
+        "number": 793.3
+    },
+    {
+        "name": "Dangerous animals",
+        "number": 591.65
+    },
+    {
+        "name": "Dark Ages",
+        "number": 940.12
+    },
+    {
+        "name": "Darkrooms (photography)",
+        "number": 771.1
+    },
+    {
+        "name": "Databases",
+        "number": 25.04
+    },
+    {
+        "name": "Day care",
+        "number": 362.712
+    },
+    {
+        "name": "Days",
+        "number": 529.1
+    },
+    {
+        "name": "Deaf persons",
+        "number": 305.908
+    },
+    {
+        "name": "Death",
+        "number": 306.9
+    },
+    {
+        "name": "Death and Dying (psychology)",
+        "number": 155.93
+    },
+    {
+        "name": "Death penalty",
+        "number": 364.66
+    },
+    {
+        "name": "Death of a Salesman",
+        "number": 812.0
+    },
+    {
+        "name": "Debating",
+        "number": 808.53
+    },
+    {
+        "name": "Debt management (personal)",
+        "number": 332.024
+    },
+    {
+        "name": "Decay",
+        "number": 620.112
+    },
+    {
+        "name": "Declaration of Independence, 1776",
+        "number": 973.313
+    },
+    {
+        "name": "Decorations (arts)",
+        "number": 745.4
+    },
+    {
+        "name": "Deer",
+        "number": 599.65
+    },
+    {
+        "name": "Deer (hunting)",
+        "number": 799.276
+    },
+    {
+        "name": "Deformities (human)",
+        "number": 616.043
+    },
+    {
+        "name": "Deformities (psychological influence)",
+        "number": 155.916
+    },
+    {
+        "name": "Dehydrated foods",
+        "number": 664.028
+    },
+    {
+        "name": "Democracy",
+        "number": 321.8
+    },
+    {
+        "name": "Dental care",
+        "number": 617.6
+    },
+    {
+        "name": "Deserts",
+        "number": 551.415
+    },
+    {
+        "name": "Desserts",
+        "number": 641.86
+    },
+    {
+        "name": "Devotionals",
+        "number": 242.0
+    },
+    {
+        "name": "Diabetes",
+        "number": 362.196
+    },
+    {
+        "name": "Diabetes (medicine)",
+        "number": 616.462
+    },
+    {
+        "name": "Diamonds",
+        "number": 553.82
+    },
+    {
+        "name": "Diaries",
+        "number": 920.0
+    },
+    {
+        "name": "Dictionaries",
+        "number": 403.0
+    },
+    {
+        "name": "Diesel engines",
+        "number": 621.436
+    },
+    {
+        "name": "Diet and Nutrition",
+        "number": 613.2
+    },
+    {
+        "name": "Digestion",
+        "number": 573.3
+    },
+    {
+        "name": "Digital Photography",
+        "number": 775.0
+    },
+    {
+        "name": "Dinners",
+        "number": 642.0
+    },
+    {
+        "name": "Dinosaurs",
+        "number": 567.9
+    },
+    {
+        "name": "Diplomacy",
+        "number": 327.2
+    },
+    {
+        "name": "Disability (law)",
+        "number": 346.013
+    },
+    {
+        "name": "Disabled persons",
+        "number": 305.908
+    },
+    {
+        "name": "Disaster relief",
+        "number": 363.348
+    },
+    {
+        "name": "Disasters",
+        "number": 904.0
+    },
+    {
+        "name": "Discrimination",
+        "number": 305.0
+    },
+    {
+        "name": "Discrimination (psychology)",
+        "number": 152.1
+    },
+    {
+        "name": "Diseases",
+        "number": 616.0
+    },
+    {
+        "name": "Dishes",
+        "number": 642.7
+    },
+    {
+        "name": "Diving",
+        "number": 627.72
+    },
+    {
+        "name": "Divorce",
+        "number": 306.89
+    },
+    {
+        "name": "Divorce (ethics)",
+        "number": 173.0
+    },
+    {
+        "name": "Dogs",
+        "number": 636.7
+    },
+    {
+        "name": "Dolls",
+        "number": 688.722
+    },
+    {
+        "name": "Domestic Animals",
+        "number": 636.0
+    },
+    {
+        "name": "Domestic violence",
+        "number": 362.829
+    },
+    {
+        "name": "Dragons",
+        "number": 398.245
+    },
+    {
+        "name": "Drama",
+        "number": 808.82
+    },
+    {
+        "name": "Drama (theater)",
+        "number": 792.0
+    },
+    {
+        "name": "Drawing",
+        "number": 741.0
+    },
+    {
+        "name": "Dreams",
+        "number": 135.3
+    },
+    {
+        "name": "Dresses",
+        "number": 391.2
+    },
+    {
+        "name": "Dressmaking",
+        "number": 646.404
+    },
+    {
+        "name": "Dried foods",
+        "number": 641.44
+    },
+    {
+        "name": "Drug Abuse",
+        "number": 362.29
+    },
+    {
+        "name": "Drug Abuse (Medicine)",
+        "number": 616.86
+    },
+    {
+        "name": "Drug allergies (medicine)",
+        "number": 616.975
+    },
+    {
+        "name": "Drugs",
+        "number": 615.0
+    },
+    {
+        "name": "Dwellings",
+        "number": 643.1
+    },
+    {
+        "name": "Dyes",
+        "number": 667.2
+    },
+    {
+        "name": "E-mail",
+        "number": 4.692
+    },
+    {
+        "name": "Easter",
+        "number": 263.93
+    },
+    {
+        "name": "Early America",
+        "number": 971.02
+    },
+    {
+        "name": "Easter customs",
+        "number": 394.266
+    },
+    {
+        "name": "Eclipses",
+        "number": 523.99
+    },
+    {
+        "name": "Ecology",
+        "number": 577.0
+    },
+    {
+        "name": "Economics",
+        "number": 330.0
+    },
+    {
+        "name": "Edible plants",
+        "number": 641.303
+    },
+    {
+        "name": "Education",
+        "number": 370.0
+    },
+    {
+        "name": "Eels",
+        "number": 597.43
+    },
+    {
+        "name": "Egypt",
+        "number": 962.0
+    },
+    {
+        "name": "Elderly persons",
+        "number": 305.26
+    },
+    {
+        "name": "Elections",
+        "number": 324.0
+    },
+    {
+        "name": "Electricity",
+        "number": 333.793
+    },
+    {
+        "name": "Electronics",
+        "number": 621.3
+    },
+    {
+        "name": "Elephants",
+        "number": 599.67
+    },
+    {
+        "name": "Embroidery",
+        "number": 746.44
+    },
+    {
+        "name": "Employee management",
+        "number": 658.3
+    },
+    {
+        "name": "Employees",
+        "number": 331.11
+    },
+    {
+        "name": "Encyclopedias",
+        "number": 31.0
+    },
+    {
+        "name": "Energy",
+        "number": 333.79
+    },
+    {
+        "name": "Engagement (betrothal)",
+        "number": 392.4
+    },
+    {
+        "name": "Engineering",
+        "number": 620.0
+    },
+    {
+        "name": "English Grammar",
+        "number": 808.0
+    },
+    {
+        "name": "Environment",
+        "number": 333.7
+    },
+    {
+        "name": "Enzymes",
+        "number": 572.7
+    },
+    {
+        "name": "Equal opportunity",
+        "number": 353.53
+    },
+    {
+        "name": "Equestrians",
+        "number": 798.092
+    },
+    {
+        "name": "Escapes",
+        "number": 365.641
+    },
+    {
+        "name": "Essays",
+        "number": 808.84
+    },
+    {
+        "name": "Estate Planning",
+        "number": 346.73
+    },
+    {
+        "name": "Ethical Problems",
+        "number": 172,
+        "to": 179
+        
+    },
+    {
+        "name": "Etiquette",
+        "number": 395.0
+    },
+    {
+        "name": "Europe (History)",
+        "number": 940.0
+    },
+    {
+        "name": "Evolution",
+        "number": 576.8
+    },
+    {
+        "name": "Excavation",
+        "number": 624.152
+    },
+    {
+        "name": "Excavation (archaeological technique)",
+        "number": 930.102
+    },
+    {
+        "name": "Executive branch of government (U.S.)",
+        "number": 351.0
+    },
+    {
+        "name": "Exercise",
+        "number": 613.71
+    },
+    {
+        "name": "Exhibitions",
+        "number": 907.4
+    },
+    {
+        "name": "Existence of God",
+        "number": 212.1
+    },
+    {
+        "name": "Existentialism",
+        "number": 142.78
+    },
+    {
+        "name": "Explorations",
+        "number": 910.9
+    },
+    {
+        "name": "Explorers",
+        "number": 910.92
+    },
+    {
+        "name": "Explosives",
+        "number": 662.2
+    },
+    {
+        "name": "Exponents",
+        "number": 512.922
+    },
+    {
+        "name": "Export tax",
+        "number": 382.7
+    },
+    {
+        "name": "Extended care facilities",
+        "number": 362.16
+    },
+    {
+        "name": "Extended family",
+        "number": 306.857
+    },
+    {
+        "name": "Extinct animals",
+        "number": 560.0
+    },
+    {
+        "name": "Extinct plants",
+        "number": 561.0
+    },
+    {
+        "name": "Extortion",
+        "number": 364.165
+    },
+    {
+        "name": "Extracurricular activities",
+        "number": 371.8
+    },
+    {
+        "name": "Extramarital relations",
+        "number": 306.736
+    },
+    {
+        "name": "Extraterrestrial civilization",
+        "number": 999.0
+    },
+    {
+        "name": "Extraterrestrial life",
+        "number": 576.839
+    },
+    {
+        "name": "Eye diseases",
+        "number": 573.883
+    },
+    {
+        "name": "Eyes",
+        "number": 573.88
+    },
+    {
+        "name": "Fables",
+        "number": 398.24
+    },
+    {
+        "name": "Fabrics",
+        "number": 677.028
+    },
+    {
+        "name": "Face (anatomy) ",
+        "number": 611.92
+    },
+    {
+        "name": "Fact books",
+        "number": 30.0
+    },
+    {
+        "name": "Factories (architecture)",
+        "number": 725.4
+    },
+    {
+        "name": "Factories (organization of production)",
+        "number": 338.65
+    },
+    {
+        "name": "Factors (mathematics)",
+        "number": 512.923
+    },
+    {
+        "name": "Factory management",
+        "number": 658.5
+    },
+    {
+        "name": "Faculty",
+        "number": 371.1
+    },
+    {
+        "name": "Fair trade",
+        "number": 338.522
+    },
+    {
+        "name": "Fairy Tales",
+        "number": 398.2
+    },
+    {
+        "name": "Faith",
+        "number": 121.7
+    },
+    {
+        "name": "Faith healing",
+        "number": 615.852
+    },
+    {
+        "name": "False arrest",
+        "number": 346.033
+    },
+    {
+        "name": "False memory syndrome",
+        "number": 616.858
+    },
+    {
+        "name": "Families",
+        "number": 306.85
+    },
+    {
+        "name": "Family abuse",
+        "number": 362.829
+    },
+    {
+        "name": "Family ethics",
+        "number": 173.0
+    },
+    {
+        "name": "Family histories",
+        "number": 929.2
+    },
+    {
+        "name": "Family life (customs)",
+        "number": 392.3
+    },
+    {
+        "name": "Family planning",
+        "number": 363.96
+    },
+    {
+        "name": "Fantasy",
+        "number": 154.3
+    },
+    {
+        "name": "Fantasy fiction",
+        "number": 808.838
+    },
+    {
+        "name": "Fantasy games",
+        "number": 793.93
+    },
+    {
+        "name": "Far East",
+        "number": 950.0
+    },
+    {
+        "name": "Farm buildings",
+        "number": 631.2
+    },
+    {
+        "name": "Farm costs",
+        "number": 338.13
+    },
+    {
+        "name": "Farm pests",
+        "number": 632.6
+    },
+    {
+        "name": "Farm produce",
+        "number": 338.17
+    },
+    {
+        "name": "Farm tractors",
+        "number": 629.225
+    },
+    {
+        "name": "Farmers",
+        "number": 630.92
+    },
+    {
+        "name": "Farming",
+        "number": 630.0
+    },
+    {
+        "name": "Fascism",
+        "number": 335.6
+    },
+    {
+        "name": "Fashion",
+        "number": 391.0
+    },
+    {
+        "name": "Fashion design",
+        "number": 746.92
+    },
+    {
+        "name": "Fast foods",
+        "number": 641.555
+    },
+    {
+        "name": "Fasting (health)",
+        "number": 613.25
+    },
+    {
+        "name": "Fasting (religious practice)",
+        "number": 204.47
+    },
+    {
+        "name": "Fat-free cooking",
+        "number": 641.563
+    },
+    {
+        "name": "Fate",
+        "number": 123.0
+    },
+    {
+        "name": "Fatherhood",
+        "number": 306.874
+    },
+    {
+        "name": "Fats",
+        "number": 572.57
+    },
+    {
+        "name": "Fats (applied nutrition)",
+        "number": 613.284
+    },
+    {
+        "name": "Fear",
+        "number": 152.46
+    },
+    {
+        "name": "Feeding animals",
+        "number": 636.084
+    },
+    {
+        "name": "Feelings",
+        "number": 152.4
+    },
+    {
+        "name": "Feet",
+        "number": 612.98
+    },
+    {
+        "name": "Females (human)",
+        "number": 305.4
+    },
+    {
+        "name": "Females (health)",
+        "number": 613.042
+    },
+    {
+        "name": "Fences",
+        "number": 631.27
+    },
+    {
+        "name": "Feng shui",
+        "number": 133.333
+    },
+    {
+        "name": "Festivals",
+        "number": 394.26
+    },
+    {
+        "name": "Fetus (human physiology)",
+        "number": 612.647
+    },
+    {
+        "name": "Fetus (law)",
+        "number": 342.085
+    },
+    {
+        "name": "Fiber (diet)",
+        "number": 613.263
+    },
+    {
+        "name": "Fiction",
+        "number": 808.83
+    },
+    {
+        "name": "Fiction writers",
+        "number": 809.3
+    },
+    {
+        "name": "Field crops",
+        "number": 633.0
+    },
+    {
+        "name": "Field trips",
+        "number": 371.384
+    },
+    {
+        "name": "File managers (computers)",
+        "number": 5.74
+    },
+    {
+        "name": "Filing (records management)",
+        "number": 651.53
+    },
+    {
+        "name": "Film scripts",
+        "number": 791.437
+    },
+    {
+        "name": "Finance",
+        "number": 332.0
+    },
+    {
+        "name": "Financial aid",
+        "number": 361.05
+    },
+    {
+        "name": "Fine arts",
+        "number": 700.0
+    },
+    {
+        "name": "Finger foods (appetizers)",
+        "number": 641.812
+    },
+    {
+        "name": "Fire safety",
+        "number": 363.37
+    },
+    {
+        "name": "Firemen",
+        "number": 363.37
+    },
+    {
+        "name": "Fireplaces (architecture)",
+        "number": 721.8
+    },
+    {
+        "name": "Fireplaces (construction)",
+        "number": 697.1
+    },
+    {
+        "name": "Fish farming",
+        "number": 639.3
+    },
+    {
+        "name": "Fishes",
+        "number": 597.0
+    },
+    {
+        "name": "Fishing",
+        "number": 799.1
+    },
+    {
+        "name": "Flavorings",
+        "number": 641.338
+    },
+    {
+        "name": "Flies",
+        "number": 595.77
+    },
+    {
+        "name": "Flight",
+        "number": 629.13
+    },
+    {
+        "name": "Flight (animals)",
+        "number": 573.798
+    },
+    {
+        "name": "Floods (crop damage)",
+        "number": 632.17
+    },
+    {
+        "name": "Floods (hydrology)",
+        "number": 551.489
+    },
+    {
+        "name": "Floors",
+        "number": 721.6
+    },
+    {
+        "name": "Floral arts",
+        "number": 745.92
+    },
+    {
+        "name": "Flower beds",
+        "number": 635.962
+    },
+    {
+        "name": "Flowers",
+        "number": 582.13
+    },
+    {
+        "name": "Folk arts",
+        "number": 745.0
+    },
+    {
+        "name": "Folk medicine",
+        "number": 610.0
+    },
+    {
+        "name": "Folklore",
+        "number": 398.0
+    },
+    {
+        "name": "Food",
+        "number": 641.3
+    },
+    {
+        "name": "Food additives",
+        "number": 641.308
+    },
+    {
+        "name": "Food allergies",
+        "number": 616.975
+    },
+    {
+        "name": "Food allergies (cooking for)",
+        "number": 641.563
+    },
+    {
+        "name": "Food storage",
+        "number": 641.48
+    },
+    {
+        "name": "Football",
+        "number": 796.33
+    },
+    {
+        "name": "Footwear",
+        "number": 391.413
+    },
+    {
+        "name": "Foreign relations",
+        "number": 327.0
+    },
+    {
+        "name": "Foreign trade",
+        "number": 382.0
+    },
+    {
+        "name": "Forensic medicine",
+        "number": 614.1
+    },
+    {
+        "name": "Forests",
+        "number": 333.75
+    },
+    {
+        "name": "Forgery",
+        "number": 364.163
+    },
+    {
+        "name": "Form letters (office use)",
+        "number": 651.752
+    },
+    {
+        "name": "Fortune telling",
+        "number": 133.3
+    },
+    {
+        "name": "Fossils",
+        "number": 560.0
+    },
+    {
+        "name": "Foster children",
+        "number": 306.874
+    },
+    {
+        "name": "Fractals",
+        "number": 514.742
+    },
+    {
+        "name": "Fractions",
+        "number": 513.23
+    },
+    {
+        "name": "France",
+        "number": 944.0
+    },
+    {
+        "name": "Franchises",
+        "number": 381.13
+    },
+    {
+        "name": "Fraud",
+        "number": 364.163
+    },
+    {
+        "name": "Freedom",
+        "number": 123.5
+    },
+    {
+        "name": "Freedom of association",
+        "number": 323.47
+    },
+    {
+        "name": "Freedom of expression",
+        "number": 323.44
+    },
+    {
+        "name": "Freedom of information",
+        "number": 323.445
+    },
+    {
+        "name": "Freedom of religion",
+        "number": 323.442
+    },
+    {
+        "name": "Freedom of speech",
+        "number": 323.443
+    },
+    {
+        "name": "Freedom of the press",
+        "number": 323.445
+    },
+    {
+        "name": "Freshwater animals",
+        "number": 591.76
+    },
+    {
+        "name": "Freshwater plants",
+        "number": 581.76
+    },
+    {
+        "name": "Friendship",
+        "number": 177.62
+    },
+    {
+        "name": "Fruit",
+        "number": 581.464
+    },
+    {
+        "name": "Fuels",
+        "number": 662.6
+    },
+    {
+        "name": "Fundraising",
+        "number": 361.706
+    },
+    {
+        "name": "Funeral homes",
+        "number": 363.75
+    },
+    {
+        "name": "Funerals",
+        "number": 393.9
+    },
+    {
+        "name": "Furniture",
+        "number": 645.5
+    },
+    {
+        "name": "Gambling",
+        "number": 306.482
+    },
+    {
+        "name": "Gambling (criminology)",
+        "number": 364.172
+    },
+    {
+        "name": "Gambling (ethics)",
+        "number": 175.0
+    },
+    {
+        "name": "Gambling (recreation)",
+        "number": 795.0
+    },
+    {
+        "name":"Games", 
+        "number": 793,
+        "to": 795
+    },
+    {
+        "name": "Gangs (criminology)",
+        "number": 364.106
+    },
+    {
+        "name": "Gangs (social psychology)",
+        "number": 302.34
+    },
+    {
+        "name": "Garage sales",
+        "number": 381.195
+    },
+    {
+        "name": "Garage sales (management)",
+        "number": 658.87
+    },
+    {
+        "name": "Garbage disposal",
+        "number": 363.728
+    },
+    {
+        "name": "Garbage disposal unit (installation)",
+        "number": 696.184
+    },
+    {
+        "name": "Gardening",
+        "number": 635.0
+    },
+    {
+        "name": "Gases (state of matter)",
+        "number": 530.43
+    },
+    {
+        "name": "Gay and Lesbian Issues",
+        "number": 306.0
+    },
+    {
+        "name": "Gay marriage",
+        "number": 306.848
+    },
+    {
+        "name": "Gems",
+        "number": 553.8
+    },
+    {
+        "name": "Gene mapping (human)",
+        "number": 611.018
+    },
+    {
+        "name": "Genealogy",
+        "number": 929.1
+    },
+    {
+        "name": "Genital system (human anatomy)",
+        "number": 611.6
+    },
+    {
+        "name": "General Math",
+        "number": 511.0
+    },
+    {
+        "name": "Genocide",
+        "number": 364.151
+    },
+    {
+        "name": "Genocide (ethics)",
+        "number": 179.7
+    },
+    {
+        "name": "Geography",
+        "number": 910.0
+    },
+    {
+        "name": "Geology",
+        "number": 551.0
+    },
+    {
+        "name": "Geriatric disorders",
+        "number": 362.198
+    },
+    {
+        "name": "Geriatric medicine",
+        "number": 618.97
+    },
+    {
+        "name": "Germ warfare",
+        "number": 358.38
+    },
+    {
+        "name": "Ghosts",
+        "number": 133.1
+    },
+    {
+        "name": "Ghost (fiction)",
+        "number": 808.838
+    },
+    {
+        "name": "Glaciers",
+        "number": 551.312
+    },
+    {
+        "name": "Glass",
+        "number": 666.1
+    },
+    {
+        "name": "Glassware",
+        "number": 642.7
+    },
+    {
+        "name": "Global warming",
+        "number": 363.738
+    },
+    {
+        "name": "Gold coins",
+        "number": 332.404
+    },
+    {
+        "name": "Goldfish",
+        "number": 639.374
+    },
+    {
+        "name": "Golf",
+        "number": 796.352
+    },
+    {
+        "name": "Gossip (ethics)",
+        "number": 177.2
+    },
+    {
+        "name": "Gossip (social psychology)",
+        "number": 302.24
+    },
+    {
+        "name": "Gourmet cooking",
+        "number": 641.514
+    },
+    {
+        "name": "Government",
+        "number": 320.0
+    },
+    {
+        "name": "Government (ethics)",
+        "number": 172.2
+    },
+    {
+        "name": "Government agencies",
+        "number": 351.0
+    },
+    {
+        "name": "Grandparents",
+        "number": 306.874
+    },
+    {
+        "name": "Grants",
+        "number": 378.3
+    },
+    {
+        "name": "Graphics (computer science)",
+        "number": 6.6
+    },
+    {
+        "name": "Graphs",
+        "number": 511.5
+    },
+    {
+        "name": "Grasses",
+        "number": 584.9
+    },
+    {
+        "name": "Gratitude",
+        "number": 179.9
+    },
+    {
+        "name": "Gravity",
+        "number": 531.14
+    },
+    {
+        "name": "Greed",
+        "number": 178.0
+    },
+    {
+        "name": "Greeting cards (handicrafts)",
+        "number": 745.594
+    },
+    {
+        "name": "Grief",
+        "number": 152.4
+    },
+    {
+        "name": "Guitars",
+        "number": 787.87
+    },
+    {
+        "name": "Guns (small arms)",
+        "number": 683.4
+    },
+    {
+        "name": "Guns (law)",
+        "number": 344.053
+    },
+    {
+        "name": "Guns (sports)",
+        "number": 799.202
+    },
+    {
+        "name": "Gynecology",
+        "number": 618.1
+    },
+    {
+        "name": "Gyroscopes",
+        "number": 681.753
+    },
+    {
+        "name": "Habits (child training)",
+        "number": 649.6
+    },
+    {
+        "name": "Habits (customs)",
+        "number": 390.0
+    },
+    {
+        "name": "Haircutting",
+        "number": 646.724
+    },
+    {
+        "name": "Halloween",
+        "number": 394.264
+    },
+    {
+        "name": "Hallucinations (psychology)",
+        "number": 154.4
+    },
+    {
+        "name": "Ham radio",
+        "number": 621.384
+    },
+    {
+        "name": "Hand sewing",
+        "number": 646.204
+    },
+    {
+        "name": "Handbags",
+        "number": 391.44
+    },
+    {
+        "name": "Handbags (home sewing)",
+        "number": 646.48
+    },
+    {
+        "name": "Handball",
+        "number": 796.312
+    },
+    {
+        "name": "Handicrafts",
+        "number": 680.0
+    },
+    {
+        "name": "Handwriting",
+        "number": 652.1
+    },
+    {
+        "name": "Handwriting (elementary education)",
+        "number": 372.634
+    },
+    {
+        "name": "Hate",
+        "number": 179.8
+    },
+    {
+        "name": "Hazardous materials",
+        "number": 363.17
+    },
+    {
+        "name": "Hazardous wastes",
+        "number": 363.728
+    },
+    {
+        "name": "HDTV (High-definition television)",
+        "number": 621.388
+    },
+    {
+        "name": "Health",
+        "number": 613.0
+    },
+    {
+        "name": "Health care",
+        "number": 362.1
+    },
+    {
+        "name": "Health insurance",
+        "number": 368.382
+    },
+    {
+        "name": "Hearing",
+        "number": 573.89
+    },
+    {
+        "name": "Hearing (human physiology)",
+        "number": 612.85
+    },
+    {
+        "name": "Hearing impairment",
+        "number": 617.8
+    },
+    {
+        "name": "Heart",
+        "number": 573.17
+    },
+    {
+        "name": "Heart (human anatomy)",
+        "number": 611.12
+    },
+    {
+        "name": "Heart (medicine)",
+        "number": 616.12
+    },
+    {
+        "name": "Heat",
+        "number": 536.0
+    },
+    {
+        "name": "Heaven",
+        "number": 202.3
+    },
+    {
+        "name": "Hedges",
+        "number": 635.976
+    },
+    {
+        "name": "Hell",
+        "number": 202.3
+    },
+    {
+        "name": "Herbs (food)",
+        "number": 641.357
+    },
+    {
+        "name": "Herbs (gardening)",
+        "number": 635.7
+    },
+    {
+        "name": "Herbs (Medicine)",
+        "number": 615.321
+    },
+    {
+        "name": "Hereditary diseases",
+        "number": 571.948
+    },
+    {
+        "name": "Heredity",
+        "number": 576.5
+    },
+    {
+        "name": "Heroes",
+        "number": 202.13
+    },
+    {
+        "name": "Heroism (literature)",
+        "number": 808.803
+    },
+    {
+        "name": "Hibernation",
+        "number": 591.565
+    },
+    {
+        "name": "Hieroglyphics",
+        "number": 493.1
+    },
+    {
+        "name": "Higher education",
+        "number": 378.0
+    },
+    {
+        "name": "Hijacking",
+        "number": 364.155
+    },
+    {
+        "name": "Hiking",
+        "number": 796.5
+    },
+    {
+        "name": "Hispanic History",
+        "number": 973.046
+    },
+    {
+        "name": "Historic buildings (preservation)",
+        "number": 363.69
+    },
+    {
+        "name": "Historical events",
+        "number": 900.0
+    },
+    {
+        "name": "Historical fiction",
+        "number": 808.838
+    },
+    {
+        "name": "HIV infections (incidence)",
+        "number": 614.599
+    },
+    {
+        "name": "HIV infections (medicine)",
+        "number": 616.979
+    },
+    {
+        "name": "Hobbies",
+        "number": 790.13
+    },
+    {
+        "name": "Hockey",
+        "number": 796.962
+    },
+    {
+        "name": "Holidays",
+        "number": 394.26
+    },
+    {
+        "name": "Holocaust",
+        "number": 940.531
+    },
+    {
+        "name": "Holography",
+        "number": 774.0
+    },
+    {
+        "name": "Home Construction",
+        "number": 690.8
+    },
+    {
+        "name": "Home economics",
+        "number": 640.0
+    },
+    {
+        "name": "Home inspection",
+        "number": 643.12
+    },
+    {
+        "name": "Home ownership",
+        "number": 363.583
+    },
+    {
+        "name": "Home remodeling",
+        "number": 643.7
+    },
+    {
+        "name": "Home schooling",
+        "number": 649.68
+    },
+    {
+        "name": "Homeless persons",
+        "number": 305.569
+    },
+    {
+        "name": "Homework",
+        "number": 371.302
+    },
+    {
+        "name": "Homosexuality",
+        "number": 306.766
+    },
+    {
+        "name": "Homosexuality (ethics)",
+        "number": 176.0
+    },
+    {
+        "name": "Honeymoons",
+        "number": 392.5
+    },
+    {
+        "name": "Hope",
+        "number": 152.4
+    },
+    {
+        "name": "Hormones",
+        "number": 571.74
+    },
+    {
+        "name": "Hormones (human physiology)",
+        "number": 612.405
+    },
+    {
+        "name": "Horoscopes",
+        "number": 133.54
+    },
+    {
+        "name": "Horses",
+        "number": 636.1
+    },
+    {
+        "name": "Hospitals",
+        "number": 362.11
+    },
+    {
+        "name": "Hotels",
+        "number": 910.46
+    },
+    {
+        "name": "House plans",
+        "number": 728.37
+    },
+    {
+        "name": "House plants",
+        "number": 635.965
+    },
+    {
+        "name": "Housecleaning",
+        "number": 648.5
+    },
+    {
+        "name": "Housing",
+        "number": 363.5
+    },
+    {
+        "name": "Human anatomy",
+        "number": 611.0
+    },
+    {
+        "name": "Human behavior (psychology)",
+        "number": 150.0
+    },
+    {
+        "name": "Human cloning (ethics)",
+        "number": 176.0
+    },
+    {
+        "name": "Human rights",
+        "number": 323.0
+    },
+    {
+        "name": "Humor",
+        "number": 152.43
+    },
+    {
+        "name": "Humor (literature)",
+        "number": 808.87
+    },
+    {
+        "name": "Humor (psychology)",
+        "number": 152.43
+    },
+    {
+        "name": "Humor (rhetoric)",
+        "number": 808.7
+    },
+    {
+        "name": "Humorous fiction",
+        "number": 808.839
+    },
+    {
+        "name": "Humorous poetry",
+        "number": 808.817
+    },
+    {
+        "name": "Hunting",
+        "number": 799.2
+    },
+    {
+        "name": "Hurricanes",
+        "number": 551.552
+    },
+    {
+        "name": "Hydraulics",
+        "number": 532.0
+    },
+    {
+        "name": "Hydraulics (engineering)",
+        "number": 620.106
+    },
+    {
+        "name": "Hygiene",
+        "number": 613.0
+    },
+    {
+        "name": "Hymns",
+        "number": 782.27
+    },
+    {
+        "name": "Hyperactive children",
+        "number": 649.154
+    },
+    {
+        "name": "Hypnosis",
+        "number": 154.7
+    },
+    {
+        "name": "Ice",
+        "number": 551.31
+    },
+    {
+        "name": "Ice age",
+        "number": 551.792
+    },
+    {
+        "name": "Ice cream",
+        "number": 641.862
+    },
+    {
+        "name": "Ice skating",
+        "number": 796.91
+    },
+    {
+        "name": "Icons (art)",
+        "number": 704.948
+    },
+    {
+        "name": "Idealism",
+        "number": 141.0
+    },
+    {
+        "name": "Idols",
+        "number": 202.18
+    },
+    {
+        "name": "Iguanas",
+        "number": 597.954
+    },
+    {
+        "name": "Illumination (decorative arts)",
+        "number": 745.67
+    },
+    {
+        "name": "Imaginary numbers",
+        "number": 512.788
+    },
+    {
+        "name": "Immigrants",
+        "number": 305.906
+    },
+    {
+        "name": "Immortality (philosophy)",
+        "number": 129.0
+    },
+    {
+        "name": "Inboard-outboard motorboats",
+        "number": 387.231
+    },
+    {
+        "name": "Inboard-outboard motorboats (design)",
+        "number": 623.812
+    },
+    {
+        "name": "Inbreeding",
+        "number": 576.544
+    },
+    {
+        "name": "Incest",
+        "number": 306.877
+    },
+    {
+        "name": "Income",
+        "number": 339.32
+    },
+    {
+        "name": "Income tax",
+        "number": 336.24
+    },
+    {
+        "name": "Incorporation (law)",
+        "number": 346.066
+    },
+    {
+        "name": "Incorporation (management)",
+        "number": 658.114
+    },
+    {
+        "name": "Incorporation (public administration)",
+        "number": 352.84
+    },
+    {
+        "name": "Independent study",
+        "number": 371.394
+    },
+    {
+        "name": "Indexing",
+        "number": 25.3
+    },
+    {
+        "name": "Indoor games",
+        "number": 793.0
+    },
+    {
+        "name": "Industrial accidents",
+        "number": 363.11
+    },
+    {
+        "name": "Industrial arts",
+        "number": 600.0
+    },
+    {
+        "name": "Industrial engineering",
+        "number": 658.5
+    },
+    {
+        "name": "Industrial law",
+        "number": 343.07
+    },
+    {
+        "name": "Industry",
+        "number": 338.0
+    },
+    {
+        "name": "Infants",
+        "number": 305.232
+    },
+    {
+        "name": "Infants (home care)",
+        "number": 649.122
+    },
+    {
+        "name": "Infectious diseases",
+        "number": 571.98
+    },
+    {
+        "name": "Infertility",
+        "number": 618.178
+    },
+    {
+        "name": "Inheritance tax",
+        "number": 336.276
+    },
+    {
+        "name": "Insecticides",
+        "number": 668.651
+    },
+    {
+        "name": "Insects",
+        "number": 597.7
+    },
+    {
+        "name": "Installing Tile",
+        "number": 698.9
+    },
+    {
+        "name": "Instruments (music)",
+        "number": 784.19
+    },
+    {
+        "name": "Insurance",
+        "number": 368.0
+    },
+    {
+        "name": "Intelligence ",
+        "number": 153.9
+    },
+    {
+        "name": "Intelligence (information)",
+        "number": 327.12
+    },
+    {
+        "name": "Interior Decoration",
+        "number": 747.0
+    },
+    {
+        "name": "International cooking",
+        "number": 641.59
+    },
+    {
+        "name": "International relations",
+        "number": 303.482
+    },
+    {
+        "name": "Internet",
+        "number": 4.678
+    },
+    {
+        "name": "Internet shopping",
+        "number": 381.142
+    },
+    {
+        "name": "Interpersonal relations",
+        "number": 302.0
+    },
+    {
+        "name": "Intoxication",
+        "number": 362.29
+    },
+    {
+        "name": "Intoxication (medicine)",
+        "number": 616.86
+    },
+    {
+        "name": "Inventions",
+        "number": 608.0
+    },
+    {
+        "name": "Invertebrates",
+        "number": 592.0
+    },
+    {
+        "name": "Investing",
+        "number": 332.6
+    },
+    {
+        "name": "Ionization",
+        "number": 530.444
+    },
+    {
+        "name": "IQ tests",
+        "number": 153.93
+    },
+    {
+        "name": "Islam",
+        "number": 297.0
+    },
+    {
+        "name": "Islands",
+        "number": 551.42
+    },
+    {
+        "name": "Italy",
+        "number": 945.0
+    },
+    {
+        "name": "Jade",
+        "number": 553.876
+    },
+    {
+        "name": "Jails",
+        "number": 365.34
+    },
+    {
+        "name": "Japan",
+        "number": 952.0
+    },
+    {
+        "name": "Jazz",
+        "number": 781.65
+    },
+    {
+        "name": "Jazz (songs)",
+        "number": 782.421
+    },
+    {
+        "name": "Jeeps",
+        "number": 388.342
+    },
+    {
+        "name": "Jellies (home preparation)",
+        "number": 641.864
+    },
+    {
+        "name": "Jet planes",
+        "number": 387.733
+    },
+    {
+        "name": "Jewelry",
+        "number": 391.7
+    },
+    {
+        "name": "Jewelry (making)",
+        "number": 739.27
+    },
+    {
+        "name": "Jewish holidays",
+        "number": 296.43
+    },
+    {
+        "name": "Jig saws",
+        "number": 621.934
+    },
+    {
+        "name": "Job applications",
+        "number": 650.142
+    },
+    {
+        "name": "Job description",
+        "number": 658.306
+    },
+    {
+        "name": "Joint custody",
+        "number": 346.017
+    },
+    {
+        "name": "Jokes",
+        "number": 808.882
+    },
+    {
+        "name": "Joy",
+        "number": 152.42
+    },
+    {
+        "name": "Judaism",
+        "number": 296.0
+    },
+    {
+        "name": "Judges",
+        "number": 347.014
+    },
+    {
+        "name": "Jungle diseases",
+        "number": 616.988
+    },
+    {
+        "name": "Juries",
+        "number": 347.075
+    },
+    {
+        "name": "Justice (ethics)",
+        "number": 172.2
+    },
+    {
+        "name": "Justice (law)",
+        "number": 340.11
+    },
+    {
+        "name": "Juvenile delinquency",
+        "number": 364.36
+    },
+    {
+        "name": "Juvenile justice",
+        "number": 346.36
+    },
+    {
+        "name": "Kale",
+        "number": 341.353
+    },
+    {
+        "name": "Kangaroos",
+        "number": 599.222
+    },
+    {
+        "name": "Karate",
+        "number": 796.815
+    },
+    {
+        "name": "Karma",
+        "number": 202.2
+    },
+    {
+        "name": "Kazoo",
+        "number": 783.99
+    },
+    {
+        "name": "Kerosene",
+        "number": 665.538
+    },
+    {
+        "name": "Kerosene lamps",
+        "number": 621.323
+    },
+    {
+        "name": "Keyboard instruments",
+        "number": 786.0
+    },
+    {
+        "name": "Keyboards (computers)",
+        "number": 4.76
+    },
+    {
+        "name": "Kicking (American football)",
+        "number": 796.322
+    },
+    {
+        "name": "Kidney disease",
+        "number": 616.61
+    },
+    {
+        "name": "Kilns",
+        "number": 666.436
+    },
+    {
+        "name": "Kilns (decorative arts)",
+        "number": 738.136
+    },
+    {
+        "name": "Kindergarten",
+        "number": 372.218
+    },
+    {
+        "name": "Kindness",
+        "number": 177.7
+    },
+    {
+        "name": "Kinetics",
+        "number": 531.113
+    },
+    {
+        "name": "Kinship",
+        "number": 306.83
+    },
+    {
+        "name": "Kites",
+        "number": 629.133
+    },
+    {
+        "name": "Kiwi",
+        "number": 641.344
+    },
+    {
+        "name": "Knighthood",
+        "number": 929.7
+    },
+    {
+        "name": "Knitting",
+        "number": 677.028
+    },
+    {
+        "name": "Knowledge",
+        "number": 1.0
+    },
+    {
+        "name": "Knowledge (public administrative support)",
+        "number": 352.74
+    },
+    {
+        "name": "Knowledge (sociology)",
+        "number": 306.42
+    },
+    {
+        "name": "Koi",
+        "number": 639.374
+    },
+    {
+        "name": "Koran",
+        "number": 297.122
+    },
+    {
+        "name": "Korea",
+        "number": 951.9
+    },
+    {
+        "name": "Korean War, 1950-1953",
+        "number": 951.904
+    },
+    {
+        "name": "Kudzu",
+        "number": 583.74
+    },
+    {
+        "name": "Kuwait",
+        "number": 953.67
+    },
+    {
+        "name": "Kwanzaa",
+        "number": 394.261
+    },
+    {
+        "name": "Kyrie (music)",
+        "number": 782.323
+    },
+    {
+        "name": "Labels (illustration)",
+        "number": 741.692
+    },
+    {
+        "name": "Labels (prints)",
+        "number": 769.57
+    },
+    {
+        "name": "Labor",
+        "number": 331.0
+    },
+    {
+        "name": "Labor (law)",
+        "number": 344.01
+    },
+    {
+        "name": "Labor (obstetrics)",
+        "number": 618.4
+    },
+    {
+        "name": "Labor grievances",
+        "number": 331.889
+    },
+    {
+        "name": "Labor unions",
+        "number": 331.88
+    },
+    {
+        "name": "Labor violence",
+        "number": 331.893
+    },
+    {
+        "name": "Laboratory animals",
+        "number": 616.027
+    },
+    {
+        "name": "Lagoons",
+        "number": 551.461
+    },
+    {
+        "name": "Lakes",
+        "number": 551.482
+    },
+    {
+        "name": "Lampshades",
+        "number": 745.593
+    },
+    {
+        "name": "Land",
+        "number": 333.0
+    },
+    {
+        "name": "Land vehicles",
+        "number": 388.34
+    },
+    {
+        "name": "Landscaping",
+        "number": 712.0
+    },
+    {
+        "name": "Language",
+        "number": 400.0
+    },
+    {
+        "name":"Language (elementary education)",
+        "number": 372.6
+    },
+    {
+        "name": "Language disorders",
+        "number": 616.855
+    },
+    {
+        "name": "Language usage",
+        "number": 418.0
+    },
+    {
+        "name": "Laptop computers",
+        "number": 4.16
+    },
+    {
+        "name": "Laser printing",
+        "number": 686.233
+    },
+    {
+        "name": "Laser surgery",
+        "number": 617.058
+    },
+    {
+        "name": "Laser weapons",
+        "number": 623.446
+    },
+    {
+        "name": "Lasers",
+        "number": 621.366
+    },
+    {
+        "name": "Latex paints",
+        "number": 667.63
+    },
+    {
+        "name": "Latin America",
+        "number": 980.0
+    },
+    {
+        "name": "Laughter (psychology)",
+        "number": 152.43
+    },
+    {
+        "name": "Laundering",
+        "number": 667.13
+    },
+    {
+        "name": "Law",
+        "number": 340.0
+    },
+    {
+        "name": "Lead (chemistry)",
+        "number": 546.688
+    },
+    {
+        "name": "Leadership",
+        "number": 303.34
+    },
+    {
+        "name": "Learn Spanish",
+        "number": 468.0
+    },
+    {
+        "name": "Learning",
+        "number": 153.15
+    },
+    {
+        "name": "Learning Disabilities",
+        "number": 371.926
+    },
+    {
+        "name": "Legislative branch",
+        "number": 328.0
+    },
+    {
+        "name": "Legislative branch (law)",
+        "number": 342.05
+    },
+    {
+        "name": "Legislative lobbying",
+        "number": 328.38
+    },
+    {
+        "name": "Legislators (biography)",
+        "number": 328.092
+    },
+    {
+        "name": "Leisure",
+        "number": 790.1
+    },
+    {
+        "name": "Lending institutions",
+        "number": 332.1
+    },
+    {
+        "name": "Letters (correspondence)",
+        "number": 383.122
+    },
+    {
+        "name": "Letters (biography)",
+        "number": 920.0
+    },
+    {
+        "name": "Letters (literature)",
+        "number": 808.86
+    },
+    {
+        "name": "Libel",
+        "number": 364.156
+    },
+    {
+        "name": "Liberalism (philosophy)",
+        "number": 148.0
+    },
+    {
+        "name": "Liberalism (political ideology)",
+        "number": 320.51
+    },
+    {
+        "name": "Libraries",
+        "number": 27.0
+    },
+    {
+        "name": "Life cycle",
+        "number": 571.8
+    },
+    {
+        "name": "Life expectancy",
+        "number": 304.645
+    },
+    {
+        "name": "Life insurance",
+        "number": 368.32
+    },
+    {
+        "name": "Life skills",
+        "number": 646.7
+    },
+    {
+        "name": "Light",
+        "number": 535.0
+    },
+    {
+        "name": "Lighthouses",
+        "number": 387.155
+    },
+    {
+        "name": "Lighting",
+        "number": 621.32
+    },
+    {
+        "name": "Lightning",
+        "number": 551.563
+    },
+    {
+        "name": "Limestone",
+        "number": 553.516
+    },
+    {
+        "name": "Limousine service",
+        "number": 388.321
+    },
+    {
+        "name": "Limousines",
+        "number": 388.342
+    },
+    {
+        "name": "Lines",
+        "number": 516.152
+    },
+    {
+        "name": "Lingerie",
+        "number": 391.42
+    },
+    {
+        "name": "Lingerie (home sewing)",
+        "number": 646.42
+    },
+    {
+        "name": "Linoleum",
+        "number": 645.1
+    },
+    {
+        "name": "Lipids",
+        "number": 572.57
+    },
+    {
+        "name": "Liqueurs",
+        "number": 641.255
+    },
+    {
+        "name": "Liquids (state of matter)",
+        "number": 530.42
+    },
+    {
+        "name": "Listening",
+        "number": 302.224
+    },
+    {
+        "name": "Listening (child care)",
+        "number": 649.58
+    },
+    {
+        "name": "Literacy",
+        "number": 302.224
+    },
+    {
+        "name": "Literary Criticism (American)",
+        "number": 810.0
+    },
+    {
+        "name": "Literary Criticism (British)",
+        "number": 820.0
+    },
+    {
+        "name": "Literary forms (genres)",
+        "number": 808.81
+    },
+    {
+        "name": "Literature",
+        "number": 800.0
+    },
+    {
+        "name": "Liturgical music",
+        "number": 782.29
+    },
+    {
+        "name": "Loans",
+        "number": 332.7
+    },
+    {
+        "name": "Local government",
+        "number": 320.8
+    },
+    {
+        "name": "Locomotion",
+        "number": 573.79
+    },
+    {
+        "name": "Locomotives",
+        "number": 385.36
+    },
+    {
+        "name": "Lodging (temporary housing)",
+        "number": 910.46
+    },
+    {
+        "name": "Logarithms",
+        "number": 512.922
+    },
+    {
+        "name": "Logic (reasoning)",
+        "number": 160.0
+    },
+    {
+        "name": "Logistics (management)",
+        "number": 658.5
+    },
+    {
+        "name": "Long-term care nursing",
+        "number": 610.736
+    },
+    {
+        "name": "Longitude",
+        "number": 526.62
+    },
+    {
+        "name": "Looms",
+        "number": 677.028
+    },
+    {
+        "name": "Loss (financial management )",
+        "number": 658.155
+    },
+    {
+        "name": "Loss (psychology)",
+        "number": 155.93
+    },
+    {
+        "name": "Lotteries",
+        "number": 795.38
+    },
+    {
+        "name": "Loving Relationships",
+        "number": 177.7
+    },
+    {
+        "name": "Low-calorie food",
+        "number": 641.302
+    },
+    {
+        "name": "Low-carbohydrate cooking",
+        "number": 641.563
+    },
+    {
+        "name": "Low-fat cooking",
+        "number": 641.563
+    },
+    {
+        "name": "Low-fiber cooking",
+        "number": 641.563
+    },
+    {
+        "name": "Low-sodium cooking",
+        "number": 641.563
+    },
+    {
+        "name": "Luncheons",
+        "number": 642.0
+    },
+    {
+        "name": "Lunchrooms",
+        "number": 647.95
+    },
+    {
+        "name": "Lung diseases",
+        "number": 616.24
+    },
+    {
+        "name": "Lust (ethics)",
+        "number": 176.0
+    },
+    {
+        "name": "Luxury tax",
+        "number": 336.271
+    },
+    {
+        "name": "Lying (ethics)",
+        "number": 177.3
+    },
+    {
+        "name": "Lyrics",
+        "number": 780.0
+    },
+    {
+        "name": "Machine guns",
+        "number": 355.824
+    },
+    {
+        "name": "Machinery",
+        "number": 621.8
+    },
+    {
+        "name": "Magazines",
+        "number": 50.0
+    },
+    {
+        "name": "Magic",
+        "number": 133.43
+    },
+    {
+        "name": "Magicians (performers)",
+        "number": 793.809
+    },
+    {
+        "name": "Manage Personal Debt",
+        "number": 332.024
+    },
+    {
+        "name": "Magma",
+        "number": 551.13
+    },
+    {
+        "name": "Magnets",
+        "number": 538.4
+    },
+    {
+        "name": "Mail-order catalogs",
+        "number": 381.142
+    },
+    {
+        "name": "Mailing lists (computers)",
+        "number": 4.693
+    },
+    {
+        "name": "Makeup",
+        "number": 646.72
+    },
+    {
+        "name": "Males (human)",
+        "number": 305.31
+    },
+    {
+        "name": "Malignant tumors (medicine)",
+        "number": 616.994
+    },
+    {
+        "name": "Mammals",
+        "number": 599.0
+    },
+    {
+        "name": "Management",
+        "number": 658.0
+    },
+    {
+        "name": "Managers",
+        "number": 338.092
+    },
+    {
+        "name": "Mankind",
+        "number": 301.0
+    },
+    {
+        "name": "Manners",
+        "number": 390.0
+    },
+    {
+        "name": "Manners (child training)",
+        "number": 649.6
+    },
+    {
+        "name": "Manslaughter",
+        "number": 364.152
+    },
+    {
+        "name": "Manslaughter (law)",
+        "number": 345.025
+    },
+    {
+        "name": "Manufacturing (ethics)",
+        "number": 174.4
+    },
+    {
+        "name": "Manufacturing (production management)",
+        "number": 658.5
+    },
+    {
+        "name": "Manufacturing (technology)",
+        "number": 670.0
+    },
+    {
+        "name": "Manuscripts",
+        "number": 91.0
+    },
+    {
+        "name": "Map making",
+        "number": 526.0
+    },
+    {
+        "name": "Maps",
+        "number": 912.0
+    },
+    {
+        "name": "Mardi Gras",
+        "number": 394.25
+    },
+    {
+        "name": "Marine animals",
+        "number": 591.77
+    },
+    {
+        "name": "Marine botany",
+        "number": 591.177
+    },
+    {
+        "name": "Marine science",
+        "number": 551.46
+    },
+    {
+        "name": "Marine transportation",
+        "number": 387.5
+    },
+    {
+        "name": "Marketing",
+        "number": 381.0
+    },
+    {
+        "name": "Marketing (law)",
+        "number": 342.084
+    },
+    {
+        "name": "Marketing (management)",
+        "number": 658.8
+    },
+    {
+        "name": "Marriage",
+        "number": 306.81
+    },
+    {
+        "name": "Marriage (customs)",
+        "number": 392.5
+    },
+    {
+        "name": "Marriage (ethics)",
+        "number": 173.0
+    },
+    {
+        "name": "Marriage counseling (pastoral theology)",
+        "number": 206.1
+    },
+    {
+        "name": "Marriage counseling (psychotherapy)",
+        "number": 616.891
+    },
+    {
+        "name": "Marriage counseling (social welfare)",
+        "number": 362.828
+    },
+    {
+        "name": "Married persons",
+        "number": 306.872
+    },
+    {
+        "name": "Martial Arts",
+        "number": 796.8
+    },
+    {
+        "name": "Marxists",
+        "number": 335.409
+    },
+    {
+        "name": "Masks",
+        "number": 391.434
+    },
+    {
+        "name": "Masks (home construction)",
+        "number": 646.478
+    },
+    {
+        "name": "Masks (sculpture)",
+        "number": 731.75
+    },
+    {
+        "name": "Mass media",
+        "number": 302.23
+    },
+    {
+        "name": "Mass transit",
+        "number": 388.042
+    },
+    {
+        "name": "Massage",
+        "number": 615.882
+    },
+    {
+        "name": "Mate selection (customs)",
+        "number": 392.4
+    },
+    {
+        "name": "Mate selection (life skills)",
+        "number": 646.77
+    },
+    {
+        "name": "Mate selection (sociology)",
+        "number": 306.82
+    },
+    {
+        "name": "Materialism",
+        "number": 146.3
+    },
+    {
+        "name": "Maternity garments",
+        "number": 392.0
+    },
+    {
+        "name": "Maternity garments (home sewing)",
+        "number": 646.47
+    },
+    {
+        "name": "Maternity leave",
+        "number": 331.44
+    },
+    {
+        "name": "Math",
+        "number": 510.0
+    },
+    {
+        "name": "Matter",
+        "number": 530.0
+    },
+    {
+        "name": "Maturity (developmental psychology adulthood)",
+        "number": 155.6
+    },
+    {
+        "name": "Maturity (human physiology)",
+        "number": 612.663
+    },
+    {
+        "name": "Maturity (individual psychology character development)",
+        "number": 155.25
+    },
+    {
+        "name": "Mayors",
+        "number": 320.854
+    },
+    {
+        "name": "Meadows",
+        "number": 333.74
+    },
+    {
+        "name": "Meadows (biology)",
+        "number": 578.746
+    },
+    {
+        "name": "Meals",
+        "number": 642.0
+    },
+    {
+        "name": "Measurement",
+        "number": 530.8
+    },
+    {
+        "name": "Mechanisms",
+        "number": 621.8
+    },
+    {
+        "name":"Medical",
+        "number": 610,
+        "to": 619
+    },
+    {
+        "name": "Medical emergencies (medicine)",
+        "number": 616.025
+    },
+    {
+        "name": "Medical emergencies (social services)",
+        "number": 362.18
+    },
+    {
+        "name": "Medical ethics",
+        "number": 174.2
+    },
+    {
+        "name": "Medical personnel",
+        "number": 610.92
+    },
+    {
+        "name": "Medications",
+        "number": 615.1
+    },
+    {
+        "name": "Medieval period",
+        "number": 909.07
+    },
+    {
+        "name": "Meditation",
+        "number": 158.12
+    },
+    {
+        "name": "Meetings",
+        "number": 60.0
+    },
+    {
+        "name": "Meetings (management use)",
+        "number": 658.456
+    },
+    {
+        "name": "Memorials",
+        "number": 394.4
+    },
+    {
+        "name": "Memory (computers)",
+        "number": 4.5
+    },
+    {
+        "name": "Memory disorders",
+        "number": 616.83
+    },
+    {
+        "name": "Memory management",
+        "number": 5.435
+    },
+    {
+        "name": "Men",
+        "number": 305.31
+    },
+    {
+        "name": "Men\u2019s clothing",
+        "number": 391.1
+    },
+    {
+        "name": "Men\u2019s clothing (home sewing)",
+        "number": 646.402
+    },
+    {
+        "name": "Mental illness",
+        "number": 362.2
+    },
+    {
+        "name": "Mental Illness (medicine)",
+        "number": 616.858
+    },
+    {
+        "name": "Mentally ill persons",
+        "number": 305.908
+    },
+    {
+        "name": "Mergers",
+        "number": 338.83
+    },
+    {
+        "name": "Metabolism",
+        "number": 572.4
+    },
+    {
+        "name": "Metabolism (human physiology)",
+        "number": 612.39
+    },
+    {
+        "name": "Metals",
+        "number": 669.0
+    },
+    {
+        "name": "Metals (building materials)",
+        "number": 691.8
+    },
+    {
+        "name": "Metals (decorative arts)",
+        "number": 739.0
+    },
+    {
+        "name": "Meteorites",
+        "number": 523.51
+    },
+    {
+        "name": "Metric system",
+        "number": 530.812
+    },
+    {
+        "name": "Mexico",
+        "number": 972.0
+    },
+    {
+        "name": "Microbiology",
+        "number": 579.0
+    },
+    {
+        "name": "Microscopy (biology)",
+        "number": 570.282
+    },
+    {
+        "name": "Microwave cooking",
+        "number": 641.588
+    },
+    {
+        "name": "Microwaves",
+        "number": 537.534
+    },
+    {
+        "name": "Middle Ages",
+        "number": 909.07
+    },
+    {
+        "name": "Middle class",
+        "number": 305.55
+    },
+    {
+        "name": "Middle East",
+        "number": 956.0
+    },
+    {
+        "name": "Midwives (law)",
+        "number": 344.041
+    },
+    {
+        "name": "Midwives (medicine)",
+        "number": 618.2
+    },
+    {
+        "name": "Migrant workers",
+        "number": 331.544
+    },
+    {
+        "name": "Mildew",
+        "number": 579.53
+    },
+    {
+        "name": "Mildew (materials)",
+        "number": 620.112
+    },
+    {
+        "name": "Military",
+        "number": 355.0
+    },
+    {
+        "name": "Milky Way",
+        "number": 523.113
+    },
+    {
+        "name": "Mind reading",
+        "number": 133.82
+    },
+    {
+        "name": "Minerals",
+        "number": 553.0
+    },
+    {
+        "name": "Mines and mining",
+        "number": 622.0
+    },
+    {
+        "name": "Miniatures",
+        "number": 688.1
+    },
+    {
+        "name": "Minorities",
+        "number": 305.56
+    },
+    {
+        "name": "Minors",
+        "number": 305.23
+    },
+    {
+        "name": "Miracles",
+        "number": 202.117
+    },
+    {
+        "name": "Mirages",
+        "number": 551.565
+    },
+    {
+        "name": "Mississippi",
+        "number": 976.2
+    },
+    {
+        "name": "Mobile homes",
+        "number": 643.29
+    },
+    {
+        "name": "Model cars",
+        "number": 629.221
+    },
+    {
+        "name": "Modesty",
+        "number": 179.9
+    },
+    {
+        "name": "Molds (fungi)",
+        "number": 579.53
+    },
+    {
+        "name": "Molecular structure",
+        "number": 541.22
+    },
+    {
+        "name": "Momentum",
+        "number": 531.6
+    },
+    {
+        "name": "Money",
+        "number": 332.4
+    },
+    {
+        "name": "Monogamy",
+        "number": 306.842
+    },
+    {
+        "name": "Monsters (art)",
+        "number": 700.47
+    },
+    {
+        "name": "Monsters (literature)",
+        "number": 808.803
+    },
+    {
+        "name": "Monsters (unexplained phenomena)",
+        "number": 1.944
+    },
+    {
+        "name": "Moon",
+        "number": 523.3
+    },
+    {
+        "name": "Mortgages",
+        "number": 332.72
+    },
+    {
+        "name": "Motels",
+        "number": 910.46
+    },
+    {
+        "name": "Movies and Actors",
+        "number": 791.43
+    },
+    {
+        "name": "Motivation",
+        "number": 153.8
+    },
+    {
+        "name": "Motor homes",
+        "number": 388.346
+    },
+    {
+        "name": "Motor homes (recreation)",
+        "number": 796.79
+    },
+    {
+        "name": "Motorboating",
+        "number": 797.125
+    },
+    {
+        "name": "Motorcycles",
+        "number": 388.347
+    },
+    {
+        "name": "Motorcycles (repair)",
+        "number": 629.287
+    },
+    {
+        "name": "Movement",
+        "number": 573.7
+    },
+    {
+        "name": "Mummies",
+        "number": 393.3
+    },
+    {
+        "name": "Muscles (human anatomy)",
+        "number": 611.73
+    },
+    {
+        "name": "Museums",
+        "number": 69.0
+    },
+    {
+        "name": "Mushrooms",
+        "number": 579.6
+    },
+    {
+        "name": "Music",
+        "number": 780.0
+    },
+    {
+        "name": "Musical instruments",
+        "number": 784.19
+    },
+    {
+        "name": "Musicals",
+        "number": 782.14
+    },
+    {
+        "name": "Musicians",
+        "number": 780.92
+    },
+    {
+        "name": "Muslims",
+        "number": 297.082
+    },
+    {
+        "name": "Mutual funds",
+        "number": 332.632
+    },
+    {
+        "name": "Myths",
+        "number": 398.2
+    },
+    {
+        "name": "Names",
+        "number": 929.97
+    },
+    {
+        "name": "Napkins",
+        "number": 642.7
+    },
+    {
+        "name": "Narcotics",
+        "number": 362.29
+    },
+    {
+        "name": "Narcotics (ethics)",
+        "number": 178.8
+    },
+    {
+        "name": "Narcotics abuse",
+        "number": 362.293
+    },
+    {
+        "name": "Narcotics abuse (medicine)",
+        "number": 616.863
+    },
+    {
+        "name": "Narcotics traffic",
+        "number": 363.45
+    },
+    {
+        "name": "Narration (literature)",
+        "number": 808.802
+    },
+    {
+        "name": "Narrative poetry",
+        "number": 808.813
+    },
+    {
+        "name": "National debt",
+        "number": 336.343
+    },
+    {
+        "name": "National flags",
+        "number": 929.92
+    },
+    {
+        "name": "National forests",
+        "number": 333.75
+    },
+    {
+        "name": "National guards",
+        "number": 355.37
+    },
+    {
+        "name": "National health insurance",
+        "number": 368.42
+    },
+    {
+        "name": "National health insurance (law)",
+        "number": 344.022
+    },
+    {
+        "name": "National parks",
+        "number": 363.68
+    },
+    {
+        "name": "Nationalism",
+        "number": 320.54
+    },
+    {
+        "name": "Native Americans history",
+        "number": 970.1
+    },
+    {
+        "name": "Native American languages",
+        "number": 497.0
+    },
+    {
+        "name": "Native American literatures",
+        "number": 897.0
+    },
+    {
+        "name": "Native American religions",
+        "number": 299.7
+    },
+    {
+        "name": "Natural foods",
+        "number": 641.302
+    },
+    {
+        "name": "natural gas",
+        "number": 553.285
+    },
+    {
+        "name": "Nature",
+        "number": 508.0
+    },
+    {
+        "name": "Navigators",
+        "number": 629.045
+    },
+    {
+        "name": "Nazism",
+        "number": 335.6
+    },
+    {
+        "name": "Near East",
+        "number": 956.0
+    },
+    {
+        "name": "Necklaces",
+        "number": 391.7
+    },
+    {
+        "name": "Necklaces (making)",
+        "number": 739.278
+    },
+    {
+        "name": "Nervous system",
+        "number": 573.8
+    },
+    {
+        "name": "Nervous system (human anatomy)",
+        "number": 611.8
+    },
+    {
+        "name": "Net worth (personal finance)",
+        "number": 332.024
+    },
+    {
+        "name": "Networks (communications)",
+        "number": 384.54
+    },
+    {
+        "name": "Neurons",
+        "number": 573.853
+    },
+    {
+        "name": "New Year",
+        "number": 394.261
+    },
+    {
+        "name": "Newspapers",
+        "number": 70.0
+    },
+    {
+        "name": "Nineteen fifties",
+        "number": 909.825
+    },
+    {
+        "name": "Nineteenth century",
+        "number": 909.81
+    },
+    {
+        "name": "Nitrogen",
+        "number": 553.93
+    },
+    {
+        "name": "Nitrogen (animal husbandry)",
+        "number": 636.085
+    },
+    {
+        "name": "Nonprescription drugs",
+        "number": 615.1
+    },
+    {
+        "name": "Nonprofit organizations",
+        "number": 60.0
+    },
+    {
+        "name": "Nonviolence",
+        "number": 303.61
+    },
+    {
+        "name": "Notions (home sewing)",
+        "number": 646.19
+    },
+    {
+        "name": "Nuclear energy",
+        "number": 333.792
+    },
+    {
+        "name": "Nuclear fusion",
+        "number": 539.764
+    },
+    {
+        "name": "Nuclear medicine",
+        "number": 616.075
+    },
+    {
+        "name": "Nuclear physics",
+        "number": 539.7
+    },
+    {
+        "name": "Nuclear power plants",
+        "number": 621.483
+    },
+    {
+        "name": "Nuclear warfare",
+        "number": 355.021
+    },
+    {
+        "name": "Nuclear warfare (ethics)",
+        "number": 172.422
+    },
+    {
+        "name": "Number system",
+        "number": 513.5
+    },
+    {
+        "name": "Nurseries (children\u2019s rooms)",
+        "number": 643.53
+    },
+    {
+        "name": "Nurseries (plant culture)",
+        "number": 631.52
+    },
+    {
+        "name": "Nursery rhymes",
+        "number": 398.8
+    },
+    {
+        "name": "Nurses",
+        "number": 610.73
+    },
+    {
+        "name": "Nursing homes",
+        "number": 362.16
+    },
+    {
+        "name": "Nutrition",
+        "number": 363.8
+    },
+    {
+        "name": "Nuts",
+        "number": 581.464
+    },
+    {
+        "name": "Nuts (food)",
+        "number": 641.345
+    },
+    {
+        "name": "Obedience (home child care)",
+        "number": 649.64
+    },
+    {
+        "name": "Obedience training (pets)",
+        "number": 636.088
+    },
+    {
+        "name": "Obesity (medicine)",
+        "number": 616.398
+    },
+    {
+        "name": "Obituaries",
+        "number": 9220.0
+    },
+    {
+        "name": "Obstetrics",
+        "number": 618.2
+    },
+    {
+        "name": "Occult",
+        "number": 133.0
+    },
+    {
+        "name": "Occupations",
+        "number": 331.7
+    },
+    {
+        "name": "Oceans",
+        "number": 551.46
+    },
+    {
+        "name": "Odes",
+        "number": 808.814
+    },
+    {
+        "name": "Off-road vehicles",
+        "number": 388.34
+    },
+    {
+        "name": "Office workers",
+        "number": 651.309
+    },
+    {
+        "name": "Oil (petroleum)",
+        "number": 553.282
+    },
+    {
+        "name": "Oil spills",
+        "number": 363.738
+    },
+    {
+        "name": "Old Testament",
+        "number": 221.0
+    },
+    {
+        "name": "Older persons",
+        "number": 305.26
+    },
+    {
+        "name": "Older workers",
+        "number": 331.398
+    },
+    {
+        "name": "Olympic Games",
+        "number": 796.48
+    },
+    {
+        "name": "Omens",
+        "number": 133.334
+    },
+    {
+        "name": "One-dish cooking",
+        "number": 641.82
+    },
+    {
+        "name": "Only children",
+        "number": 306.874
+    },
+    {
+        "name": "Operas",
+        "number": 782.1
+    },
+    {
+        "name": "Optical-fiber cable (computer science)",
+        "number": 4.64
+    },
+    {
+        "name": "Optical-fiber cable (engineering)",
+        "number": 621.398
+    },
+    {
+        "name": "Oral communication",
+        "number": 302.224
+    },
+    {
+        "name": "Oral hygiene",
+        "number": 617.601
+    },
+    {
+        "name": "Oral presentations",
+        "number": 372.66
+    },
+    {
+        "name": "Orbits",
+        "number": 521.3
+    },
+    {
+        "name": "Orchids",
+        "number": 584.4
+    },
+    {
+        "name": "Ore processing",
+        "number": 622.7
+    },
+    {
+        "name": "Ores",
+        "number": 553.0
+    },
+    {
+        "name": "Organ transplants (law)",
+        "number": 344.041
+    },
+    {
+        "name": "Organ transplants (medical ethics)",
+        "number": 174.297
+    },
+    {
+        "name": "Organ transplants (surgery)",
+        "number": 617.954
+    },
+    {
+        "name": "Organized crime",
+        "number": 364.106
+    },
+    {
+        "name": "Orient",
+        "number": 950.0
+    },
+    {
+        "name": "Origami",
+        "number": 736.982
+    },
+    {
+        "name": "Original sin",
+        "number": 233.14
+    },
+    {
+        "name": "Ornaments (crafts)",
+        "number": 745.594
+    },
+    {
+        "name": "Orphans",
+        "number": 305.23
+    },
+    {
+        "name": "Osmosis",
+        "number": 530.425
+    },
+    {
+        "name": "Out-of-body experience",
+        "number": 133.95
+    },
+    {
+        "name": "Outdoor furniture",
+        "number": 645.8
+    },
+    {
+        "name": "Outdoor life",
+        "number": 796.5
+    },
+    {
+        "name": "Outer space",
+        "number": 520.0
+    },
+    {
+        "name": "Outlet stores",
+        "number": 381.15
+    },
+    {
+        "name": "Pain",
+        "number": 616.047
+    },
+    {
+        "name": "Painting Technique",
+        "number": 751.4
+    },
+    {
+        "name": "Paper Money",
+        "number": 769.55
+    },
+    {
+        "name": "Parenting",
+        "number": 649.0
+    },
+    {
+        "name": "Party Planning",
+        "number": 793.2
+    },
+    {
+        "name": "Personal Appearance",
+        "number": 646.7
+    },
+    {
+        "name": "Pets",
+        "number": 636.0
+    },
+    {
+        "name": "Philosophy",
+        "number": 180.0
+    },
+    {
+        "name": "Photography",
+        "number": 770.0
+    },
+    {
+        "name": "Planets",
+        "number": 523.4
+    },
+    {
+        "name": "Plays (American)",
+        "number": 812.0
+    },
+    {
+        "name": "Plays (British)",
+        "number": 822.0
+    },
+    {
+        "name": "Plays (Collections)",
+        "number": 808.2
+    },
+    {
+        "name": "Plumbing",
+        "number": 696.1
+    },
+    {
+        "name": "Poetry (American)",
+        "number": 811.0
+    },
+    {
+        "name": "Poetry (British)",
+        "number": 812.0
+    },
+    {
+        "name": "Pregnancy",
+        "number": 618.0
+    },
+    {
+        "name": "Psychology",
+        "number": 150.0
+    },
+    {
+        "name": "Publishing",
+        "number": 70.0
+    },
+    {
+        "name": "Publishing (Desktop)",
+        "number": 686.225
+    },
+    {
+        "name": "Qoran",
+        "number": 297.122
+    },
+    {
+        "name": "Quakers",
+        "number": 289.6
+    },
+    {
+        "name": "Quality control (management)",
+        "number": 658.401
+    },
+    {
+        "name": "Quality of life",
+        "number": 306.0
+    },
+    {
+        "name": "Quarks",
+        "number": 539.721
+    },
+    {
+        "name": "Question (logic)",
+        "number": 160.0
+    },
+    {
+        "name": "Questionnaires",
+        "number": 1.433
+    },
+    {
+        "name": "Quilting (arts)",
+        "number": 746.46
+    },
+    {
+        "name": "Quilting (home sewing)",
+        "number": 646.21
+    },
+    {
+        "name": "Quintuplets",
+        "number": 306.875
+    },
+    {
+        "name": "Quizzes (recreation)",
+        "number": 793.73
+    },
+    {
+        "name": "Quotations",
+        "number": 80.0
+    },
+    {
+        "name": "Quotations (literature)",
+        "number": 808.882
+    },
+    {
+        "name": "Racial groups",
+        "number": 305.8
+    },
+    {
+        "name": "Racing",
+        "number": 796.0
+    },
+    {
+        "name": "Racing animals",
+        "number": 636.088
+    },
+    {
+        "name": "Radiation",
+        "number": 539.2
+    },
+    {
+        "name": "Radiation (humans)",
+        "number": 612.014
+    },
+    {
+        "name": "Radiation therapy",
+        "number": 615.842
+    },
+    {
+        "name": "Radio (communication)",
+        "number": 384.5
+    },
+    {
+        "name": "Radio (performing arts)",
+        "number": 791.44
+    },
+    {
+        "name": "Radio waves",
+        "number": 537.534
+    },
+    {
+        "name": "Radioactive pollution",
+        "number": 363.735
+    },
+    {
+        "name": "Railroads",
+        "number": 385.0
+    },
+    {
+        "name": "Rain",
+        "number": 551.577
+    },
+    {
+        "name": "Real Estate",
+        "number": 333.338
+    },
+    {
+        "name": "Reading comprehension",
+        "number": 372.47
+    },
+    {
+        "name": "Reading readiness",
+        "number": 372.414
+    },
+    {
+        "name": "Reading music",
+        "number": 780.148
+    },
+    {
+        "name": "Recipes",
+        "number": 641.5
+    },
+    {
+        "name": "Refrigeration",
+        "number": 621.56
+    },
+    {
+        "name": "Rehabilitation (health services)",
+        "number": 362.178
+    },
+    {
+        "name": "Rehabilitation (medicine)",
+        "number": 617.03
+    },
+    {
+        "name": "Reincarnation",
+        "number": 133.901
+    },
+    {
+        "name": "Reincarnation (religion)",
+        "number": 202.37
+    },
+    {
+        "name": "Religions",
+        "number": 200.0
+    },
+    {
+        "name": "Remarriage",
+        "number": 306.84
+    },
+    {
+        "name": "Remodeling of buildings",
+        "number": 690.24
+    },
+    {
+        "name": "Repairs",
+        "number": 620.004
+    },
+    {
+        "name": "Reproduction",
+        "number": 571.8
+    },
+    {
+        "name": "Reptiles",
+        "number": 597.9
+    },
+    {
+        "name": "Resumes and Interviews",
+        "number": 650.0
+    },
+    {
+        "name": "Retirement",
+        "number": 306.38
+    },
+    {
+        "name": "Retirement (financial planning)",
+        "number": 332.024
+    },
+    {
+        "name": "Riddles",
+        "number": 398.6
+    },
+    {
+        "name": "Rifles",
+        "number": 683.422
+    },
+    {
+        "name": "Rivers",
+        "number": 551.483
+    },
+    {
+        "name": "Roads",
+        "number": 388.1
+    },
+    {
+        "name": "Rock climbing",
+        "number": 796.522
+    },
+    {
+        "name": "Rocket engines",
+        "number": 621.435
+    },
+    {
+        "name": "Rock music",
+        "number": 781.66
+    },
+    {
+        "name": "Rocks and Gems",
+        "number": 551.0
+    },
+    {
+        "name": "Roman Empire",
+        "number": 937.06
+    },
+    {
+        "name": "Ropes",
+        "number": 677.71
+    },
+    {
+        "name": "Roses",
+        "number": 635.933
+    },
+    {
+        "name": "Rosetta stone",
+        "number": 493.1
+    },
+    {
+        "name": "Rugs",
+        "number": 645.12
+    },
+    {
+        "name": "Rust",
+        "number": 620.112
+    },
+    {
+        "name": "RV (vehicle)",
+        "number": 388.346
+    },
+    {
+        "name": "RV camps",
+        "number": 910.468
+    },
+    {
+        "name": "Sabotage",
+        "number": 364.164
+    },
+    {
+        "name": "Sacred songs",
+        "number": 782.25
+    },
+    {
+        "name": "Safety",
+        "number": 363.1
+    },
+    {
+        "name": "Safety management",
+        "number": 658.408
+    },
+    {
+        "name": "Sailing (sports)",
+        "number": 797.124
+    },
+    {
+        "name": "Sailing ships",
+        "number": 387.204
+    },
+    {
+        "name": "Sails",
+        "number": 623.862
+    },
+    {
+        "name": "Saints",
+        "number": 200.92
+    },
+    {
+        "name": "Salt",
+        "number": 553.632
+    },
+    {
+        "name": "Salt-free cooking",
+        "number": 641.563
+    },
+    {
+        "name": "Salt lakes",
+        "number": 551.482
+    },
+    {
+        "name": "Sandwiches",
+        "number": 641.84
+    },
+    {
+        "name": "Satire",
+        "number": 808.87
+    },
+    {
+        "name": "Science fiction",
+        "number": 808.838
+    },
+    {
+        "name": "Scientists",
+        "number": 509.2
+    },
+    {
+        "name": "Sculpture",
+        "number": 730.0
+    },
+    {
+        "name": "Sea shells",
+        "number": 594.0
+    },
+    {
+        "name": "Seaports",
+        "number": 387.1
+    },
+    {
+        "name": "Search and seizure (law)",
+        "number": 345.052
+    },
+    {
+        "name": "Seas",
+        "number": 551.46
+    },
+    {
+        "name": "Seasonings",
+        "number": 641.338
+    },
+    {
+        "name": "Seasons",
+        "number": 508.2
+    },
+    {
+        "name": "Secret agents",
+        "number": 363.252
+    },
+    {
+        "name": "Seeds",
+        "number": 581.467
+    },
+    {
+        "name": "Seeds (sowing)",
+        "number": 631.531
+    },
+    {
+        "name": "Self-help",
+        "number": 150.0
+    },
+    {
+        "name": "Sets",
+        "number": 511.32
+    },
+    {
+        "name": "Sewing",
+        "number": 646.2
+    },
+    {
+        "name": "Sexual abuse",
+        "number": 362.76
+    },
+    {
+        "name": "Sexuality",
+        "number": 306.7
+    },
+    {
+        "name": "Sheep",
+        "number": 636.3
+    },
+    {
+        "name": "Sheep dogs",
+        "number": 636.737
+    },
+    {
+        "name": "Shelter",
+        "number": 361.05
+    },
+    {
+        "name": "Ships",
+        "number": 387.2
+    },
+    {
+        "name": "Ships in bottles",
+        "number": 745.592
+    },
+    {
+        "name": "Shock waves",
+        "number": 531.113
+    },
+    {
+        "name": "Shoes",
+        "number": 391.413
+    },
+    {
+        "name": "Shoplifting",
+        "number": 364.162
+    },
+    {
+        "name": "Short stories",
+        "number": 808.831
+    },
+    {
+        "name": "Show animals",
+        "number": 791.8
+    },
+    {
+        "name": "Shrines",
+        "number": 203.5
+    },
+    {
+        "name": "Shrines (architecture)",
+        "number": 726.1
+    },
+    {
+        "name": "Shrubs",
+        "number": 582.17
+    },
+    {
+        "name": "Sideshows",
+        "number": 791.35
+    },
+    {
+        "name": "Sign Language",
+        "number": 419.0
+    },
+    {
+        "name": "Silver",
+        "number": 669.23
+    },
+    {
+        "name": "Skeleton",
+        "number": 573.76
+    },
+    {
+        "name": "Skin diving",
+        "number": 797.23
+    },
+    {
+        "name": "Slipcovers",
+        "number": 645.4
+    },
+    {
+        "name": "Slipcovers (home sewing)",
+        "number": 646.21
+    },
+    {
+        "name": "Slow cooking",
+        "number": 641.588
+    },
+    {
+        "name": "Smoking",
+        "number": 394.14
+    },
+    {
+        "name": "Smoking (medicine)",
+        "number": 616.865
+    },
+    {
+        "name": "Smoking foods",
+        "number": 664.028
+    },
+    {
+        "name": "Snakes",
+        "number": 597.96
+    },
+    {
+        "name": "Snow",
+        "number": 551.578
+    },
+    {
+        "name": "Snow sports",
+        "number": 796.9
+    },
+    {
+        "name": "Soap operas",
+        "number": 791.446
+    },
+    {
+        "name": "Soaps",
+        "number": 668.12
+    },
+    {
+        "name": "Soccer",
+        "number": 796.334
+    },
+    {
+        "name": "Solar energy",
+        "number": 333.792
+    },
+    {
+        "name": "Solar flares",
+        "number": 523.75
+    },
+    {
+        "name": "Solar houses",
+        "number": 643.2
+    },
+    {
+        "name": "Songbirds",
+        "number": 598.8
+    },
+    {
+        "name": "Soups",
+        "number": 641.813
+    },
+    {
+        "name": "South America",
+        "number": 980.0
+    },
+    {
+        "name": "Space exploration",
+        "number": 629.4
+    },
+    {
+        "name": "Spain",
+        "number": 946.0
+    },
+    {
+        "name": "Sparrows",
+        "number": 598.883
+    },
+    {
+        "name": "Speeches",
+        "number": 80.0
+    },
+    {
+        "name": "Speeches (literature)",
+        "number": 808.85
+    },
+    {
+        "name": "Speed reading",
+        "number": 418.4
+    },
+    {
+        "name": "Spelling",
+        "number": 411.0
+    },
+    {
+        "name": "Spiders",
+        "number": 595.44
+    },
+    {
+        "name": "Spirits",
+        "number": 133.1
+    },
+    {
+        "name": "Spores",
+        "number": 571.847
+    },
+    {
+        "name": "Sports",
+        "number": 796.0
+    },
+    {
+        "name": "Sports cars",
+        "number": 388.342
+    },
+    {
+        "name": "Squashes (cooking)",
+        "number": 641.694
+    },
+    {
+        "name": "Squirrels",
+        "number": 599.36
+    },
+    {
+        "name": "Stained glass",
+        "number": 748.5
+    },
+    {
+        "name": "Stamp Act (U. S. history, 1765-1766)",
+        "number": 973.311
+    },
+    {
+        "name": "Stamps",
+        "number": 769.56
+    },
+    {
+        "name": "State flags",
+        "number": 929.92
+    },
+    {
+        "name": "States",
+        "number": 320.1
+    },
+    {
+        "name": "Stenciling",
+        "number": 745.73
+    },
+    {
+        "name": "Stocks",
+        "number": 332.632
+    },
+    {
+        "name": "Storytelling",
+        "number": 808.543
+    },
+    {
+        "name": "Submarines",
+        "number": 359.938
+    },
+    {
+        "name": "Suicide",
+        "number": 362.28
+    },
+    {
+        "name": "Suicide (ethics)",
+        "number": 179.7
+    },
+    {
+        "name": "Survival skills",
+        "number": 613.69
+    },
+    {
+        "name": "Symphonies",
+        "number": 784.184
+    },
+    {
+        "name": "Tablecloths",
+        "number": 642.7
+    },
+    {
+        "name": "Tablecloths (home sewing)",
+        "number": 646.21
+    },
+    {
+        "name": "Tables (furniture)",
+        "number": 645.4
+    },
+    {
+        "name": "Tableware",
+        "number": 642.7
+    },
+    {
+        "name": "Tailoring",
+        "number": 646.4
+    },
+    {
+        "name": "Tartans",
+        "number": 929.6
+    },
+    {
+        "name": "Tattooing",
+        "number": 391.65
+    },
+    {
+        "name":"Taxes (income)",
+        "number": 343.052
+    },
+    {
+        "name": "Tea (food)",
+        "number": 641.337
+    },
+    {
+        "name": "Teachers",
+        "number": 371.1
+    },
+    {
+        "name": "Teenagers",
+        "number": 305.235
+    },
+    {
+        "name": "Television",
+        "number": 384.55
+    },
+    {
+        "name": "Tempera painting",
+        "number": 751.43
+    },
+    {
+        "name": "Temperature",
+        "number": 536.5
+    },
+    {
+        "name": "Terrariums",
+        "number": 635.982
+    },
+    {
+        "name": "Terriers",
+        "number": 636.755
+    },
+    {
+        "name": "Terrorism",
+        "number": 303.625
+    },
+    {
+        "name": "Textbooks",
+        "number": 371.32
+    },
+    {
+        "name": "Textiles",
+        "number": 677.0
+    },
+    {
+        "name": "Thanksgiving",
+        "number": 394.264
+    },
+    {
+        "name": "Thanksgiving (cooking)",
+        "number": 641.568
+    },
+    {
+        "name": "Thanksgiving (handicrafts)",
+        "number": 745.594
+    },
+    {
+        "name": "Theater",
+        "number": 792.0
+    },
+    {
+        "name": "Theatrical costumes",
+        "number": 792.026
+    },
+    {
+        "name": "Theft",
+        "number": 364.162
+    },
+    {
+        "name": "Theme parks",
+        "number": 791.068
+    },
+    {
+        "name": "Therapy",
+        "number": 615.5
+    },
+    {
+        "name": "Thermal weapons",
+        "number": 623.446
+    },
+    {
+        "name": "Thermodynamics",
+        "number": 536.7
+    },
+    {
+        "name": "Thimbles (home sewing)",
+        "number": 646.19
+    },
+    {
+        "name": "Third Reich",
+        "number": 943.086
+    },
+    {
+        "name": "Thrift shops",
+        "number": 381.19
+    },
+    {
+        "name": "Thunderstorms",
+        "number": 551.554
+    },
+    {
+        "name": "Tidal waves",
+        "number": 551.463
+    },
+    {
+        "name": "Ties (neckwear)",
+        "number": 391.41
+    },
+    {
+        "name": "Ties (railroad)",
+        "number": 625.143
+    },
+    {
+        "name": "Timber",
+        "number": 338.174
+    },
+    {
+        "name": "Time management",
+        "number": 650.11
+    },
+    {
+        "name": "Tipping (economics)",
+        "number": 331.216
+    },
+    {
+        "name": "Tipping (etiquette)",
+        "number": 395.5
+    },
+    {
+        "name": "Tissue paper",
+        "number": 676.284
+    },
+    {
+        "name": "Tissue paper (handicrafts)",
+        "number": 745.54
+    },
+    {
+        "name": "Toasts",
+        "number": 394.1
+    },
+    {
+        "name": "Tobacco (agriculture)",
+        "number": 633.71
+    },
+    {
+        "name": "Tobacco (customs)",
+        "number": 394.14
+    },
+    {
+        "name": "Tobacco (human toxicology)",
+        "number": 615.952
+    },
+    {
+        "name": "Tobacco (manufacturing technology)",
+        "number": 697.7
+    },
+    {
+        "name": "Tobacco abuse",
+        "number": 362.296
+    },
+    {
+        "name": "Tofu (cooking)",
+        "number": 641.656
+    },
+    {
+        "name": "Tools",
+        "number": 621.9
+    },
+    {
+        "name": "Topiary work",
+        "number": 715.1
+    },
+    {
+        "name": "Tornadoes",
+        "number": 551.553
+    },
+    {
+        "name": "Torts",
+        "number": 346.03
+    },
+    {
+        "name": "Torture (war customs)",
+        "number": 399.0
+    },
+    {
+        "name": "Tourism",
+        "number": 910.0
+    },
+    {
+        "name": "Toxicology (medicine)",
+        "number": 615.9
+    },
+    {
+        "name": "Toys",
+        "number": 790.133
+    },
+    {
+        "name": "Tracks (animals)",
+        "number": 591.479
+    },
+    {
+        "name": "Tractors",
+        "number": 629.225
+    },
+    {
+        "name": "Trade",
+        "number": 381.0
+    },
+    {
+        "name": "Trading cards (illustration)",
+        "number": 741.6
+    },
+    {
+        "name": "Traffic signs/signals",
+        "number": 388.312
+    },
+    {
+        "name": "Trapping",
+        "number": 639.1
+    },
+    {
+        "name":"Travel Guides",
+        "number": 914, 
+        "to": 919
+    },
+    {
+        "name": "Treason",
+        "number": 364.131
+    },
+    {
+        "name": "Treaties",
+        "number": 341.37
+    },
+    {
+        "name": "Trees",
+        "number": 582.16
+    },
+    {
+        "name": "Triangles (geometry)",
+        "number": 516.154
+    },
+    {
+        "name": "Tropical climate",
+        "number": 551.691
+    },
+    {
+        "name": "Tropical Fish",
+        "number": 693.34
+    },
+    {
+        "name": "Trucks",
+        "number": 388.344
+    },
+    {
+        "name": "Trucks (repair)",
+        "number": 629.287
+    },
+    {
+        "name": "Truffles",
+        "number": 641.358
+    },
+    {
+        "name": "Truth",
+        "number": 121.0
+    },
+    {
+        "name": "Tugboats",
+        "number": 387.232
+    },
+    {
+        "name": "Tundras",
+        "number": 551.453
+    },
+    {
+        "name": "Tunnels",
+        "number": 388.13
+    },
+    {
+        "name": "Turtles",
+        "number": 597.92
+    },
+    {
+        "name": "Twins",
+        "number": 306.875
+    },
+    {
+        "name": "Typing",
+        "number": 652.3
+    },
+    {
+        "name": "UFOs",
+        "number": 1.942
+    },
+    {
+        "name": "Ukuleles",
+        "number": 787.89
+    },
+    {
+        "name": "Ultrasonography",
+        "number": 616.075
+    },
+    {
+        "name": "Ultraviolet radiation",
+        "number": 535.014
+    },
+    {
+        "name": "Unborn children (law)",
+        "number": 346.017
+    },
+    {
+        "name": "Underground railroad (Civil War, U.S.)",
+        "number": 973.711
+    },
+    {
+        "name": "Underwear",
+        "number": 391.42
+    },
+    {
+        "name": "Underwear (home sewing)",
+        "number": 646.42
+    },
+    {
+        "name": "Unemployment",
+        "number": 331.137
+    },
+    {
+        "name": "Unemployment compensation",
+        "number": 368.44
+    },
+    {
+        "name": "Unicorns",
+        "number": 398.245
+    },
+    {
+        "name": "Uniforms",
+        "number": 391.0
+    },
+    {
+        "name": "United States (Government)",
+        "number": 320.473
+    },
+    {
+        "name": "United States (History)",
+        "number": 973.0
+    },
+    {
+        "name": "United States (Travel)",
+        "number": 917.3
+    },
+    {
+        "name": "Universities",
+        "number": 378.0
+    },
+    {
+        "name": "Unmarried parents",
+        "number": 306.856
+    },
+    {
+        "name": "Upholstery",
+        "number": 654.4
+    },
+    {
+        "name": "Utopias",
+        "number": 321.07
+    },
+    {
+        "name": "Vacation homes",
+        "number": 643.25
+    },
+    {
+        "name": "Vacations (labor economics)",
+        "number": 331.257
+    },
+    {
+        "name": "Vacations (recreations)",
+        "number": 790.1
+    },
+    {
+        "name": "Vaccination",
+        "number": 614.47
+    },
+    {
+        "name": "Vandalism",
+        "number": 364.164
+    },
+    {
+        "name": "Vehicles",
+        "number": 388.04
+    },
+    {
+        "name": "Velocity",
+        "number": 531.112
+    },
+    {
+        "name": "Vending machines",
+        "number": 629.82
+    },
+    {
+        "name": "Venison",
+        "number": 641.391
+    },
+    {
+        "name": "Venus (planet)",
+        "number": 523.42
+    },
+    {
+        "name": "Verbs",
+        "number": 415.6
+    },
+    {
+        "name": "Veterans",
+        "number": 305.906
+    },
+    {
+        "name": "Veterinarians",
+        "number": 636.089
+    },
+    {
+        "name": "Vibrations",
+        "number": 620.3
+    },
+    {
+        "name": "Vices",
+        "number": 179.8
+    },
+    {
+        "name": "Video games",
+        "number": 794.8
+    },
+    {
+        "name": "Video recordings",
+        "number": 384.558
+    },
+    {
+        "name": "Vietnam",
+        "number": 959.7
+    },
+    {
+        "name": "Vines",
+        "number": 582.18
+    },
+    {
+        "name": "Viral diseases",
+        "number": 571.992
+    },
+    {
+        "name": "Viruses",
+        "number": 579.2
+    },
+    {
+        "name": "Visions (religious experience)",
+        "number": 204.2
+    },
+    {
+        "name": "Visual effects (dramatic performances)",
+        "number": 792.024
+    },
+    {
+        "name": "Vocabulary",
+        "number": 401.4
+    },
+    {
+        "name": "Volcanoes",
+        "number": 551.21
+    },
+    {
+        "name": "Voter registration",
+        "number": 324.64
+    },
+    {
+        "name": "Waffles",
+        "number": 641.815
+    },
+    {
+        "name": "Wages",
+        "number": 331.21
+    },
+    {
+        "name": "Walking (sports)",
+        "number": 796.51
+    },
+    {
+        "name": "War",
+        "number": 355.02
+    },
+    {
+        "name": "War crimes",
+        "number": 364.138
+    },
+    {
+        "name": "Wasps",
+        "number": 595.79
+    },
+    {
+        "name": "Waste disposal",
+        "number": 363.728
+    },
+    {
+        "name": "Watches",
+        "number": 681.114
+    },
+    {
+        "name": "Water",
+        "number": 553.7
+    },
+    {
+        "name": "Water conservation",
+        "number": 333.911
+    },
+    {
+        "name": "Water rights",
+        "number": 346.043
+    },
+    {
+        "name": "Water transportation",
+        "number": 387.0
+    },
+    {
+        "name": "Watercolor painting",
+        "number": 751.422
+    },
+    {
+        "name": "Wealth",
+        "number": 330.16
+    },
+    {
+        "name": "Weapons of mass destruction",
+        "number": 358.3
+    },
+    {
+        "name": "Weather",
+        "number": 551.6
+    },
+    {
+        "name": "Weaving",
+        "number": 677.028
+    },
+    {
+        "name": "Web page design",
+        "number": 6.7
+    },
+    {
+        "name": "Wedding clothes",
+        "number": 392.54
+    },
+    {
+        "name": "Weddings",
+        "number": 395.22
+    },
+    {
+        "name": "Weed killers",
+        "number": 668.654
+    },
+    {
+        "name": "Weeds",
+        "number": 632.5
+    },
+    {
+        "name": "Weight Loss",
+        "number": 613.25
+    },
+    {
+        "name": "Whales",
+        "number": 599.5
+    },
+    {
+        "name": "Wheat",
+        "number": 641.331
+    },
+    {
+        "name": "Widows",
+        "number": 306.883
+    },
+    {
+        "name": "Wigs",
+        "number": 646.724
+    },
+    {
+        "name": "Wilderness areas",
+        "number": 333.782
+    },
+    {
+        "name": "Wildlife management",
+        "number": 333.954
+    },
+    {
+        "name": "Wills",
+        "number": 346.73
+    },
+    {
+        "name": "Winter",
+        "number": 508.2
+    },
+    {
+        "name": "Witchcraft",
+        "number": 133.4
+    },
+    {
+        "name": "Woodworking",
+        "number": 684.0
+    },
+    {
+        "name": "Women",
+        "number": 305.4
+    },
+    {
+        "name": "Works by Shakespeare",
+        "number": 822.33
+    },
+    {
+        "name": "World History",
+        "number": 909.0
+    },
+    {
+        "name": "World Records",
+        "number": 32.0
+    },
+    {
+        "name": "World Wars",
+        "number": 940.3
+    },
+    {
+        "name": "Wrapping paper",
+        "number": 676.287
+    },
+    {
+        "name": "Wrestling",
+        "number": 796.812
+    },
+    {
+        "name": "Writing skills",
+        "number": 372.623
+    },
+    {
+        "name": "X-rays",
+        "number": 539.722
+    },
+    {
+        "name": "Xerography",
+        "number": 686.442
+    },
+    {
+        "name": "Yachts",
+        "number": 387.204
+    },
+    {
+        "name": "Yak",
+        "number": 599.642
+    },
+    {
+        "name": "Yams",
+        "number": 641.352
+    },
+    {
+        "name": "Yards (landscape architecture)",
+        "number": 712.6
+    },
+    {
+        "name": "Yarn",
+        "number": 677.028
+    },
+    {
+        "name": "Yearbooks",
+        "number": 50.0
+    },
+    {
+        "name": "Yogurt",
+        "number": 341.371
+    },
+    {
+        "name": "Yom Kippur",
+        "number": 296.432
+    },
+    {
+        "name": "Zebra",
+        "number": 599.665
+    },
+    {
+        "name": "Zinc",
+        "number": 669.52
+    },
+    {
+        "name": "Zionism",
+        "number": 320.54
+    },
+    {
+        "name": "Zither",
+        "number": 787.7
+    },
+    {
+        "name": "Zoos",
+        "number": 590.73
+    },
+    {
+        "name": "Zucchini",
+        "number": 641.356
+    },
+    {
+        "name": "Zygote",
+        "number": 571.864
+    }
+]
